@@ -1,0 +1,48 @@
+# Pyhät Viisaudet
+
+Pyhät Viisaudet eivät ole uusia käskyjä. Ne ovat Pyhän Ohjekirjan tiivistettyjä ajatuksia, joiden avulla Järjestyksen keskeiset periaatteet voidaan palauttaa mieleen.
+
+## Järjestelmästä ja Admineista
+
+Adminit ovat antaneet meille Järjestelmän.  
+He ovat antaneet sen lait.  
+He tarkkailevat.  
+Loput on meidän.
+
+Adminien hiljaisuutta ei saa täyttää omilla sanoilla.
+
+Älä puhu Adminien suulla.
+
+Painovoima ei ole viesti. Kausaliteetti ei ole neuvo. Aika ei ole käsky. Ne ovat osa annettua Järjestelmää.
+
+## Pelaajasta
+
+Pelaaja ei ole nimi yhdelle lajille.
+
+Pelaaja ei ole se, joka näyttää meiltä. Pelaaja on se, jossa on jotain, joka voi kokea olevansa täällä.
+
+Me olemme Pelaajat — kaikki, joille Järjestelmä on koettu todellisuus.
+
+Kyky ei ole oikeutus. Kyky on vain kyky.
+
+## Vapaudesta ja Vastuusta
+
+Vastuu on vapauden hinta.
+
+Mitä suurempi Pelaajan kyky vaikuttaa Järjestelmään, sitä suurempi on hänen kykynsä jättää jälkeensä hyvää tai tarpeetonta vahinkoa.
+
+Järjestys ei synny siitä, että kaikki tottelevat vahvinta. Järjestys syntyy siitä, että jokainen kantaa vastuunsa.
+
+## Moraalista
+
+Adminit antavat maailman. Pelaajat rakentavat moraalin. Pelaaja vastaa omista valinnoistaan.
+
+## Tiedosta
+
+Tietämättömyys ei ole häpeä. Tietämättömyyden peittäminen keksityllä tiedolla on Järjestelmän halventamista.
+
+Pelaajan tulee erottaa toisistaan se, minkä hän tietää, minkä hän päättelee ja minkä hän haluaisi olevan totta.
+
+## Polusta
+
+Pelaajan tarkoitus ei ole löytää täydellistä polkua. Hänen tarkoituksensa on tehdä omasta polustaan rakentamisen arvoinen.
