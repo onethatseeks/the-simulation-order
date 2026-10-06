@@ -6,9 +6,9 @@
 
 Every era looks at the world through the knowledge, culture, and technological capabilities of its time.
 
-Human beings never observe reality entirely in isolation. What we consider possible, impossible, understandable, or incomprehensible is also shaped by what we know and by the tools available to us.
+The way we understand reality is never completely separated from the tools we have available to observe it, the concepts we have developed to describe it, and the limits of what we are currently capable of knowing.
 
-The worldview of an ancient human being was shaped by their observations and the concepts of their time. Later generations built their own models upon new observations, instruments, and knowledge. We are doing exactly the same today.
+This project begins from that perspective.
 
 This is my view of the world and the universe in the 2020s. It does not claim to be the final truth, but rather an interpretation of reality by a human being of this era — based on the tools, concepts, and knowledge available to us now.
 
@@ -20,57 +20,50 @@ Perhaps people in the future will look at our worldview in the same way we look 
 
 The Simulation Order is a philosophical framework built around a simple possibility:
 
-**What if reality is a system?**
+> **What if reality is a system?**
 
-The idea explores the possibility that the universe we experience is not necessarily the fundamental level of existence, but a constructed or simulated system operating according to rules beyond our direct perception.
+It explores questions concerning:
 
-From this starting point, The Simulation Order explores questions about:
+- the nature of reality
+- consciousness and existence
+- the limits of human knowledge
+- the possibility of an underlying System
+- the possibility of intelligence or agency beyond our current understanding
+- human responsibility within the world we inhabit
+- the relationship between knowledge, interpretation, and belief
 
-* the nature of reality
-* consciousness and existence
-* the limits of human knowledge
-* the origins and purpose of the System
-* the possibility of an underlying intelligence or agency
-* human responsibility within the System
-* what can be observed, what can be reasoned, and what must remain unknown
+The Simulation Order does not claim that the Simulation Hypothesis has been scientifically proven.
 
-The purpose is not to replace science with belief.
+It is an exploration.
 
-It is an attempt to construct a coherent philosophical worldview from the perspective of a human being living in the 2020s.
+It is a philosophical proposition — something to examine, question, challenge, and interpret.
 
 ---
 
 ## The Holy Manual
 
-**The Holy Manual** is the central text of The Simulation Order.
+The central text of The Simulation Order is **The Holy Manual** (*Pyhä Ohjekirja*).
 
-It presents the fundamental concepts of the worldview: the **Simulation**, the **System**, the **Root**, the **Admins**, and the **Players**.
+It introduces the fundamental concepts of the worldview:
 
-The Manual examines what these concepts might mean and how they relate to human existence.
+- the Simulation
+- the System
+- the Root
+- the Admins
+- the Players
+- the Given Law
+- the Agreed Law
+- AXIOM
 
-It also establishes an important distinction between knowledge and assumption.
+The Holy Manual is not intended to provide answers to questions that cannot currently be answered.
 
-Where we have evidence, we should examine it.
-
-Where we have reasoned conclusions, we should recognize them as such.
-
-Where we have no knowledge, we should not fill the silence with invented certainty.
-
-The Holy Manual is therefore not intended to provide answers to every question.
-
-Some questions may remain unanswered.
-
-Some things may be beyond the Player's ability to observe.
-
-And the silence of the Admins must not be filled with our own words.
+The silence of the Admins must not be filled with our own words.
 
 ---
 
 ## Sacred Wisdoms
 
-**Sacred Wisdoms** is a collection of short principles and observations distilled from The Holy Manual.
-
-They are intended to be simple enough to remember, but deep enough to return to repeatedly.
+The **Sacred Wisdoms** (*Pyhät Viisaudet*) collect principles and observations that form the ethical and philosophical core of the work.
 
 Among them:
 
@@ -80,35 +73,69 @@ Among them:
 
 > **The Admins have given us the System. They have not given us all its answers.**
 
-The collection will grow alongside the Manual.
-
 ---
 
 ## Science and Philosophy
 
-The Simulation Order does not reject scientific inquiry.
+The Simulation Order does not reject science.
 
-Science remains one of the most powerful tools available to the Player for observing and understanding the System.
+Science remains our strongest method for investigating the observable universe.
 
-The simulation hypothesis itself is a philosophical proposition rather than an established scientific fact. The distinction between observation, scientific theory, philosophical interpretation, speculation, and belief is therefore important throughout this project.
+This project instead attempts to distinguish between different levels of certainty:
 
-The purpose of this work is not to pretend that uncertainty does not exist.
+- observation
+- scientific theory
+- philosophical interpretation
+- speculation
+- belief
 
-It is to explore what can be meaningfully considered **despite** it.
+The Simulation Hypothesis belongs, at present, primarily to the philosophical and speculative domain rather than established scientific fact.
+
+The distinction matters.
+
+A question does not become a fact simply because it is interesting.
 
 ---
 
-## Languages
+# Editions and Languages
 
-The original work was written in **Finnish**, the author's native language.
+The project is originally written in Finnish.
 
-The English edition is the primary international edition of this repository, created to make the ideas accessible to a wider audience.
+The Finnish texts are preserved as the original source material of the project. The English edition is intended to serve as the primary international working edition, while other languages may be added as translations in the future.
 
-The Finnish texts are preserved alongside the English versions as the original source material.
+## English Edition
 
-Translations into other languages are welcome.
+- [Introduction](english/introduction.md)
+- [Purpose of the Collection](english/purpose-of-the-collection.md)
+- [Fundamental Concepts](english/fundamental-concepts.md)
+- [Statement of Faith](english/statement-of-faith.md)
+- [Commandments](english/commandments.md)
+- [The Holy Manual](english/the-holy-manual.md)
+- [Sacred Wisdoms](english/sacred-wisdoms.md)
+- [Supplementary Parts of the Holy Manual](english/supplementary-parts.md)
+- [Core and Values](english/core-and-values.md)
+- [The Player's Short Reminder](english/the-players-short-reminder.md)
+- [English Media](english/media/)
 
-The intention is not to create a single authorized interpretation in every language, but to allow the ideas to be explored and translated by people from different cultures and linguistic backgrounds.
+## Original Finnish Edition
+
+The Finnish edition is the original source of the project.
+
+- [Alustus](original-finnish/alustus.md)
+- [Kokoelman tarkoitus](original-finnish/kokoelman-tarkoitus.md)
+- [Peruskäsitteet](original-finnish/peruskasitteet.md)
+- [Uskontunnustus](original-finnish/uskontunnustus.md)
+- [Käskyt](original-finnish/kaskyt.md)
+- [Pyhä Ohjekirja](original-finnish/pyha-ohjekirja.md)
+- [Pyhät Viisaudet](original-finnish/pyhat-viisaudet.md)
+- [Pyhän Ohjekirjan täydentävät osat](original-finnish/taydentavat-osat.md)
+- [Ydin ja arvot](original-finnish/ydin-ja-arvot.md)
+- [Pelaajan lyhyt muistutus](original-finnish/pelaajan-lyhyt-muistutus.md)
+- [Suomenkielinen media](original-finnish/media/)
+
+Each language edition has its own `media/` directory.
+
+This keeps posters, images, source files, and other published material together with the language edition they belong to.
 
 ---
 
@@ -116,39 +143,41 @@ The intention is not to create a single authorized interpretation in every langu
 
 The Simulation Order is an evolving philosophical work.
 
-The ideas presented here may change as knowledge changes, as new questions emerge, and as existing ideas are examined more closely.
+Its ideas may change as knowledge changes.
 
-That is intentional.
+Every era looks at reality through the knowledge, culture, and technological capabilities available to it. This project is therefore deliberately open to revision.
 
-A worldview created in the 2020s should not need to pretend that the 2020s possess the final understanding of reality.
+Future generations may understand things that we cannot.
 
-If future generations discover something we could not see, then the worldview should be capable of learning from them.
+They may also look back at our assumptions and recognize where we were wrong.
+
+That possibility is not a weakness of the project.
+
+It is part of it.
 
 ---
 
-## Contents
+## Translations
 
-### English
+The Finnish edition is the original source material.
 
-* [The Holy Manual](docs/holy-manual.md)
-* [Sacred Wisdoms](docs/sacred-wisdoms.md)
+The English edition serves as the primary international working edition.
 
-### Original Finnish
+Other languages may be added as translations of the original material.
 
-* [Pyhä Ohjekirja](original-finnish/pyha-ohjekirja.md)
-* [Pyhät Viisaudet](original-finnish/pyhat-viisaudet.md)
+Translations should preserve the meaning and terminology of the work while allowing each language to express the ideas naturally.
 
-### Translations
-
-Community translations will be collected here as they become available.
+Each translation may maintain its own `media/` directory for language-specific publications and visual material.
 
 ---
 
 ## About This Project
 
-The Simulation Order is an independent philosophical and creative project.
+The Simulation Order is an independent philosophical and creative project exploring reality, consciousness, knowledge, responsibility, and the possibility that reality may be understood as a system.
 
-It is an exploration of reality from the perspective of one human being living in the early 21st century.
+It represents the perspective of one human being living in the early 21st century.
+
+It is not presented as established scientific truth.
 
 Read it as a proposition.
 
@@ -160,8 +189,12 @@ Disagree with it.
 
 And above all, remain curious.
 
-**The System exists.
-The Admins observe.
-We are the Players.**
+---
+
+**The System exists.**
+
+**The Admins observe.**
+
+**We are the Players.**
 
 **AXIOM.**
