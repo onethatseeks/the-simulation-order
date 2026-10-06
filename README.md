@@ -139,21 +139,38 @@ This keeps posters, images, source files, and other published material together 
 
 ---
 
-## A Living Work
+## A Defined Work
 
-The Simulation Order is an evolving philosophical work.
+The Simulation Order is a defined philosophical work.
 
-Its ideas may change as knowledge changes.
+It presents a particular view of reality, consciousness, responsibility, and existence as understood by its authors. It is offered as a complete expression of that view, not as an open document to be continuously altered by outside interpretation or changing opinion.
 
-Every era looks at reality through the knowledge, culture, and technological capabilities available to it. This project is therefore deliberately open to revision.
+The work may be questioned, criticized, discussed, interpreted, and challenged.
 
-Future generations may understand things that we cannot.
+Its ideas may be rejected.
 
-They may also look back at our assumptions and recognize where we were wrong.
+But disagreement does not change the work itself.
 
-That possibility is not a weakness of the project.
+Anyone is free to build upon these ideas, reinterpret them, or create a different version of them. Such developments should exist as their own works or forks rather than silently changing the original.
 
-It is part of it.
+The canonical version of The Simulation Order should remain stable.
+
+Changes to its fundamental texts or core ideas should only be made when there is a compelling reason to do so and when the change has been explicitly accepted by all maintainers of the canonical work.
+
+Such changes should be exceptional, deliberate, and documented.
+
+The world may change.
+
+Human knowledge may change.
+
+Our understanding of the universe may change.
+
+But this work remains a record of the worldview we chose to express.
+
+If someone sees the world differently, they are free to build their own.
+
+> **The Simulation Order may be questioned by anyone.  
+> It may be changed only by those entrusted with its canonical form.**
 
 ---
 
