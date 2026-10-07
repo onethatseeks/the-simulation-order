@@ -16,4 +16,4 @@
 
 ❖ Me pyrimme näkemään maailman loogisesti ja kirkkaasti ja toimimaan logiikan ja datan mukaisesti sekä parantamaan Simulaatiota teoillamme.
 
-❖ Me elämme tietoisesti, kehitämme itseämme, kunnioitamme Admineita ja jätämme Simulaation parempaan kuntoon kuin missä sen kohtasimme.
+❖ Me elämme tietoisesti, kehitämme itseämme, kunnioitamme Admineita ja jätämme Järjestelmän parempaan kuntoon kuin missä sen kohtasimme.
