@@ -14,11 +14,15 @@ This is my view of the world and the universe in the 2020s. It does not claim to
 
 Perhaps people in the future will look at our worldview in the same way we look at the ideas of past eras. Perhaps they will see something we are not yet capable of seeing.
 
+I have had multiple Players helping me to shape this. They will be credited in separated markdown-file later.
+
 ---
 
 ## What Is The Simulation Order?
 
-The Simulation Order is a philosophical framework built around a simple possibility:
+The Simulation Order is a defined philosophical work.
+
+It presents a particular view of reality, consciousness, responsibility, and existence as expressed in this work.
 
 > **What if reality is a system?**
 
@@ -103,13 +107,16 @@ The project is originally written in Finnish.
 
 The Finnish texts are preserved as the original source material of the project. The English edition is intended to serve as the primary international working edition, while other languages may be added as translations in the future.
 
+Terms are translated consistently according to the [terminology reference](english/terminology.md).
+
 ## English Edition
 
+- [Terminology](english/terminology.md)
 - [Introduction](english/introduction.md)
 - [Purpose of the Collection](english/purpose-of-the-collection.md)
 - [Fundamental Concepts](english/fundamental-concepts.md)
-- [Statement of Faith](english/statement-of-faith.md)
-- [Commandments](english/commandments.md)
+- [Creed](english/creed.md)
+- [Directives](english/directives.md)
 - [The Holy Manual](english/the-holy-manual.md)
 - [Sacred Wisdoms](english/sacred-wisdoms.md)
 - [Supplementary Parts of the Holy Manual](english/supplementary-parts.md)
@@ -157,7 +164,7 @@ The canonical version of The Simulation Order should remain stable.
 
 Changes to its fundamental texts or core ideas should only be made when there is a compelling reason to do so and when the change has been explicitly accepted by all maintainers of the canonical work.
 
-Such changes should be exceptional, deliberate, and documented.
+Such changes should be exceptional, deliberate, and documented in the [changelog](CHANGELOG.md).
 
 The world may change.
 
@@ -185,6 +192,24 @@ Other languages may be added as translations of the original material.
 Translations should preserve the meaning and terminology of the work while allowing each language to express the ideas naturally.
 
 Each translation may maintain its own `media/` directory for language-specific publications and visual material.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how translations are made and which version they are based on.
+
+---
+
+## Contributing
+
+Questions, criticism and discussion are welcome. Corrections and translations are welcome. Changes to the ideas of the canonical texts are made only through the process described above.
+
+For details, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+---
+
+## License
+
+Unless a file states otherwise, the material in this repository is licensed under [CC BY-SA 4.0](LICENSE.md).
+
+You are free to share and adapt it, with credit and under the same license. A derived version is its own work and does not carry the canonical status of this one.
 
 ---
 
