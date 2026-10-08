@@ -27,7 +27,7 @@ It is the reference for the English edition and for translations into other lang
 | Järjestys | the Order | The community of Players who share this worldview. Lowercase *order* means orderliness. |
 | Horisontti | the Horizon | The shared direction of all Players' paths. |
 | Polku | Path | A Player's own way. |
-| AXIOM | AXIOM | Not translated. |
+| AXIOM | AXIOM | A Holy word to end scripture |
 
 ## Principles and ideas
 
@@ -108,6 +108,4 @@ It is the reference for the English edition and for translations into other lang
 
 These are not yet fixed. Until they are, use the form shown in the tables above.
 
-1. **Holy or Sacred.** The Finnish *Pyhä* is used for the Manual, the Wisdoms and the symbols. English currently has *Holy Manual* and *Sacred Wisdoms*. One adjective should be chosen and used throughout.
-2. **The Simulation Order or The Order of the Simulation.** The repository and README use *The Simulation Order*. Choose one form for the title and for "Join the Order".
-3. **Consciousness or Awareness** for *Tietoisuus* as a value. *Consciousness* matches Chapter Five (consciousness is a degree); *Awareness* sounds lighter.
+1. **Consciousness or Awareness** for *Tietoisuus* as a value. *Consciousness* matches Chapter Five (consciousness is a degree); *Awareness* sounds lighter.
