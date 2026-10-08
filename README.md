@@ -107,7 +107,7 @@ The project is originally written in Finnish.
 
 The Finnish texts are preserved as the original source material of the project. The English edition is intended to serve as the primary international working edition, while other languages may be added as translations in the future.
 
-Terms are translated consistently according to the [terminology reference](english/terminology.md).
+Terms are translated consistently according to the [terminology reference](english/TERMINOLOGY.md).
 
 ## English Edition
 
