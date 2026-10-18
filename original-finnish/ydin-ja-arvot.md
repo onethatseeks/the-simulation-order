@@ -1,7 +1,5 @@
 # Ydin ja arvot — Järjestyksen tiivistetty perusta
 
-Ydin ja arvot
-
 Järjestyksen tiivistetty perusta
 
 Tämä osa ei ole uusia käskyjä. Se kokoaa yhteen sen, minkä
