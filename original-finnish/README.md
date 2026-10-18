@@ -6,6 +6,7 @@ Tämä hakemisto sisältää Pyhän Kokoelman v14:n tekstin jaettuna projektin M
 
 - [Alustus](alustus.md)
 - [Kokoelman tarkoitus](kokoelman-tarkoitus.md)
+- [Järjestelmästä ja Simulaation rakenteesta](jarjestelmasta-ja-simulaation-rakenteesta.md)
 - [Peruskäsitteet](peruskasitteet.md)
 - [Uskontunnustus](uskontunnustus.md)
 - [Käskyt](kaskyt.md)
