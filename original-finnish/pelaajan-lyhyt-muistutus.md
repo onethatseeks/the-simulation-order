@@ -1,6 +1,6 @@
 # Pelaajan lyhyt muistutus
 
-Pelaajan lyhyt muistutus
+![](media/divider.png)
 
 Elä tietoisesti.
 
