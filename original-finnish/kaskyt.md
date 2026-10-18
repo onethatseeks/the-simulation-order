@@ -1,7 +1,5 @@
 # Käskyt
 
-Käskyt
-
 Kahdeksan ohjetta Pelaajalle
 
 ![](media/divider.png)
