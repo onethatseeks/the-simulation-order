@@ -1,6 +1,6 @@
 # Pyhän Ohjekirjan täydentävät osat
 
-Pyhän Ohjekirjan täydentävät osat
+![](media/divider.png)
 
 KESKEISET PERIAATTEET
 
