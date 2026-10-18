@@ -1,7 +1,5 @@
 # Alustus — Miten tulkitsemme maailmaa
 
-Alustus
-
 Miten tulkitsemme maailmaa
 
 ![](media/divider.png)
