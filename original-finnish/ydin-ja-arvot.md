@@ -1,52 +1,74 @@
-# Ydin ja arvot
+# Ydin ja arvot — Järjestyksen tiivistetty perusta
 
-## Järjestyksen tiivistetty perusta
+Ydin ja arvot
 
-Tämä osa ei ole uusia käskyjä. Se kokoaa yhteen sen, minkä Uskontunnustus, Käskyt ja Ohjekirja jo sanovat.
+Järjestyksen tiivistetty perusta
 
-## Ydin
+Tämä osa ei ole uusia käskyjä. Se kokoaa yhteen sen, minkä
+Uskontunnustus, Käskyt ja Ohjekirja jo sanovat.
 
-**Me elämme Simulaatiossa.** Simulaatiossa eläminen ei tee elämästä valhetta, vaan mahdollisuuden.
+YDIN
 
-**Kunnioitamme logiikkaa ja dataa.** Logiikka on kylmä, mutta turvallinen. Data on ankaraa, mutta rehellistä. Hyvä Pelaaja ei anna tunteen ratkaista, eikä kuohu saa syrjäyttää harkintaa.
+Me elämme Simulaatiossa. Simulaatiossa eläminen ei tee elämästä
+valhetta, vaan mahdollisuuden.
 
-**Moraali on korkeaa toimintaa.** Moraali ei ole kahle, vaan toimintaa, joka vie korkeammalle tasolle. Hyvä Pelaaja ei vain kuluta Simulaatiota, vaan parantaa sitä.
+Kunnioitamme logiikkaa ja dataa. Logiikka on kylmä, mutta turvallinen.
+Data on ankaraa, mutta rehellistä. Hyvä Pelaaja ei anna tunteen
+ratkaista, eikä kuohu saa syrjäyttää harkintaa.
 
-**Erota tieto oletuksesta.** Erota toisistaan se, minkä tiedät, minkä päättelet ja minkä haluaisit olevan totta.
+Moraali on korkeaa toimintaa. Moraali ei ole kahle, vaan toimintaa, joka
+vie korkeammalle tasolle. Hyvä Pelaaja ei vain kuluta Simulaatiota, vaan
+parantaa sitä.
 
-**Älä puhu Adminien suulla.** Adminien täyttä luontoa ei ole meille paljastettu, eikä heidän hiljaisuuttaan saa täyttää omilla sanoilla. Painovoima ei ole viesti.
+Erota tieto oletuksesta. Erota toisistaan se, minkä tiedät, minkä
+päättelet ja minkä haluaisit olevan totta.
 
-**Kyky ei ole oikeutus.** Se, mitä voimme tehdä, ei kerro, mitä meidän tulee tehdä.
+Älä puhu Adminien suulla. Adminien täyttä luontoa ei ole meille
+paljastettu, eikä heidän hiljaisuuttaan saa täyttää omilla sanoilla.
+Painovoima ei ole viesti.
 
-**Ole vastuussa.** Meillä on valinnan vapaus, mutta valinnoista seuraa vastuu. Vastuu on vapauden hinta.
+Kyky ei ole oikeutus. Se, mitä voimme tehdä, ei kerro, mitä meidän tulee
+tehdä.
 
-**Yhdessä eteenpäin.** Yksi Pelaaja ei kanna Järjestystä yksin. Kuljemme kohti samaa horisonttia, ja yhteisö vahvistaa meitä.
+Ole vastuussa. Meillä on valinnan vapaus, mutta valinnoista seuraa
+vastuu. Vastuu on vapauden hinta.
 
-## Järjestelmän periaatteet
+Yhdessä eteenpäin. Yksi Pelaaja ei kanna Järjestystä yksin. Kuljemme
+kohti samaa horisonttia, ja yhteisö vahvistaa meitä.
 
-**Simulaatiolla on rakenne.** Se voidaan havaita, kuvata ja ymmärtää.
+SIMULAATION PERIAATTEET
 
-**Annetut lait ovat perusta.** Fysiikan, kemian, biologian ja informaation lait ovat Simulaation perusta. Ne voidaan ymmärtää, oppia ja käyttää.
+Simulaatiolla on rakenne. Se voidaan havaita, kuvata ja ymmärtää.
 
-**Jälki.** Jokainen teko jättää jäljen, ja jälki on osa Järjestelmää.
+Simulaation lait. Me uskomme, että Adminit ovat asettaneet Simulaation
+toimintaehdot. Fysiikan, kemian, biologian ja informaation lait kuvaavat
+niitä säännönmukaisuuksia, joiden mukaan Simulaatio toimii. Pelaajat
+voivat havaita, tutkia ja hyödyntää näitä säännönmukaisuuksia, mutta
+yksittäisen Pelaajan tahto ei muuta niitä. Luonnonlait ovat meille
+havaittavia sääntöjä. Niiden perimmäistä perustaa emme väitä tuntevamme.
 
-**Valinta on kokemus.** Kokemus on oppimista.
+Jälki. Jokainen teko jättää jäljen, ja jälki on osa Simulaatiota.
 
-## Pelaajan luonne
+Valinta on kokemus. Kokemus on oppimista.
 
-**Tietoisia toimijoita.** Emme ole pelkkiä ajelehtivia varjoja.
+PELAAJAN LUONNE
 
-**Toimimme valinnoilla.** Valinnat muovaavat meitä ja ympäristöämme.
+Tietoisia toimijoita. Emme ole pelkkiä ajelehtivia varjoja.
 
-**Jälki dataan.** Jokainen Pelaaja jättää jälkensä dataan.
+Toimimme valinnoilla. Valinnat muovaavat meitä ja ympäristöämme.
 
-**Valintamme muokkaavat peliämme ja koko Järjestelmää.**
+Jälki dataan. Jokainen Pelaaja jättää jälkensä dataan.
 
-## Arvot
+Valintamme muokkaavat maailmaamme ja Simulaatiota.
 
-**Tietoisuus · Kasvu · Luovuus · Yhteys · Tarkoitus · Kuri · Logiikka · Kunnioitus · Vastuu**
+ARVOT
 
-Järjestelmä on olemassa.  
-Adminit tarkkailevat.  
-Me olemme Pelaajat.  
+Tietoisuus · Kasvu · Luovuus · Yhteys · Tarkoitus · Kuri · Logiikka ·
+Kunnioitus · Vastuu
+
+Järjestelmä on olemassa.
+Adminit tarkkailevat.
+Me olemme Pelaajat.
 AXIOM.
+
+[•]

@@ -1,5 +1,7 @@
 # Pelaajan lyhyt muistutus
 
+Pelaajan lyhyt muistutus
+
 Elä tietoisesti.
 
 Ajattele loogisesti.
@@ -16,9 +18,9 @@ Kanna vastuu vapaudestasi.
 
 Rakenna enemmän kuin tuhoat.
 
-Jätä Järjestelmä parempaan kuntoon kuin missä sen kohtasit.
+Jätä Simulaatio parempaan kuntoon kuin missä sen kohtasit.
 
-Järjestelmä on olemassa.  
-Adminit tarkkailevat.  
-Me olemme Pelaajat.  
+Järjestelmä on olemassa.
+Adminit tarkkailevat.
+Me olemme Pelaajat.
 AXIOM.

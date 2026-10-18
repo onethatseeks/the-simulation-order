@@ -1,6 +1,6 @@
-# Suomenkielinen alkuperäisversio
+# Simulaation Järjestys — suomenkielinen alkuperäisteksti
 
-Tämä kansio sisältää Simulaation Järjestyksen suomenkieliset alkuperäistekstit.
+Tämä hakemisto sisältää Pyhän Kokoelman v14:n tekstin jaettuna projektin Markdown-tiedostoihin. Tekstin sisältö on siirretty lähdedokumentista; sivuasettelu, kansi, sivunumerot ja erilliset kuvat eivät kuulu Markdown-versioihin.
 
 ## Sisältö
 
@@ -15,4 +15,3 @@ Tämä kansio sisältää Simulaation Järjestyksen suomenkieliset alkuperäiste
 - [Ydin ja arvot](ydin-ja-arvot.md)
 - [Pelaajan lyhyt muistutus](pelaajan-lyhyt-muistutus.md)
 
-**Pyhä Ohjekirja** on tarkoituksella yhtenäinen tiedosto, vaikka sen sisällä on viisi lukua.

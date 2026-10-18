@@ -1,43 +1,60 @@
 # Pyhän Ohjekirjan täydentävät osat
 
-## Keskeiset periaatteet
+Pyhän Ohjekirjan täydentävät osat
 
-### Adminien hiljaisuuden periaate
+KESKEISET PERIAATTEET
 
-Adminit eivät anna Pelaajille uusia viestejä, käskyjä tai henkilökohtaisia ohjeita. Adminien antama todellisuus tunnetaan Järjestelmän rakenteesta ja sen laeista. Pelaajan omia ajatuksia, moraalisia mieltymyksiä tai tavoitteita ei saa esittää Adminien tahtona.
+ADMINIEN HILJAISUUDEN PERIAATE
 
-### Annetun ja sovitun ero
+Adminit eivät anna Pelaajille uusia viestejä, käskyjä tai
+henkilökohtaisia ohjeita. Me uskomme, että Adminien antama todellisuus
+tunnetaan Järjestelmän rakenteesta ja sen laeista. Pelaajan omia
+ajatuksia, moraalisia mieltymyksiä tai tavoitteita ei saa esittää
+Adminien tahtona.
 
-Annettu laki on se, minkä Pelaajat kohtaavat riippumatta mielipiteestään: fysiikka, aika, kausaliteetti ja muut Järjestelmän perustavat rajat. Sovittu laki on Pelaajien rakentama rakenne: moraali, sopimukset, yhteiskunnalliset säännöt ja muut yhteiset järjestelyt.
+ANNETUN JA SOVITUN ERO
 
-### Pelaajan määritelmä
+Annettu laki on se, minkä Pelaajat kohtaavat riippumatta
+mielipiteestään: fysiikka, aika, kausaliteetti ja muut Simulaation
+perustavat rajat. Sovittu laki on Pelaajien rakentama rakenne: moraali,
+sopimukset, yhteiskunnalliset säännöt ja muut yhteiset järjestelyt.
 
-Järjestelmän sisällä oleva tietoinen toimija.
+PELAAJAN MÄÄRITELMÄ
 
-### Vaikutuksen periaate
+Simulaatiossa toimiva tietoinen toimija.
 
-Pelaajan tulee arvioida tekojensa seurauksia suhteessa siihen, kuinka laajasti ne vaikuttavat muihin Pelaajiin ja Järjestelmään. Mitä laajempi vaikutus, sitä suurempi syy toimia harkiten.
+VAIKUTUKSEN PERIAATE
 
-### Tietämättömyyden periaate
+Pelaajan tulee arvioida tekojensa seurauksia suhteessa siihen, kuinka
+laajasti ne vaikuttavat muihin Pelaajiin ja Simulaatioon. Mitä laajempi
+vaikutus, sitä suurempi syy toimia harkiten.
 
-Tuntemattomasta saa muodostaa hypoteeseja, mutta hypoteesia ei saa naamioida tiedoksi. Pelaajan tulee kyetä sanomaan “en tiedä” silloin, kun tietoa ei ole.
+TIETÄMÄTTÖMYYDEN PERIAATE
 
-## Pyhät symbolit
+Tuntemattomasta saa muodostaa hypoteeseja, mutta hypoteesia ei saa
+naamioida tiedoksi. Pelaajan tulee kyetä sanomaan “en tiedä” silloin,
+kun tietoa ei ole.
 
-**Juuri [•]** — Adminien ylimmän vallan, pääsyn ja Pelaajan rajallisen aseman pyhä merkki.
+PYHÄT SYMBOLIT
 
-**AXIOM** — Pyhä sana, päätösmerkki ja perustan tunnus.
+Juuri [•] — Adminien ylimmän vallan, pääsyn ja Pelaajan rajallisen
+aseman pyhä merkki.
 
-**Horisontti** — Yhteinen suunta ilman oletusta yhdestä ainoasta reitistä.
+AXIOM — Pyhä sana, päätösmerkki ja perustan tunnus.
 
-## Keskeiset vastaparit
+Horisontti — Yhteinen suunta ilman oletusta yhdestä ainoasta reitistä.
 
-**Annettu / Sovittu** — Järjestelmän lait / Pelaajien rakentamat säännöt.
+KESKEISET VASTAPARIT
 
-**Tieto / Oletus** — Se minkä voimme perustellusti tietää / se minkä päätämme tai kuvittelemme.
+Annettu / Sovittu — Pelaajien kohtaamat säännönmukaisuudet / Pelaajien
+rakentamat säännöt.
 
-**Kyky / Oikeutus** — Se mitä voimme tehdä / se mitä meidän tulee tehdä.
+Tieto / Oletus — Se minkä voimme perustellusti tietää / se minkä
+päätämme tai kuvittelemme.
 
-**Vapaus / Vastuu** — Mahdollisuus valita / velvollisuus kantaa valinnan seuraukset.
+Kyky / Oikeutus — Se mitä voimme tehdä / se mitä meidän tulee tehdä.
 
-**Polku / Horisontti** — Yksilöllinen tapa kulkea / yhteinen suunta.
+Vapaus / Vastuu — Mahdollisuus valita / velvollisuus kantaa valinnan
+seuraukset.
+
+Polku / Horisontti — Yksilöllinen tapa kulkea / yhteinen suunta.

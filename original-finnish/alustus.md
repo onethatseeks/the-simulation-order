@@ -1,15 +1,31 @@
-# Alustus
+# Alustus — Miten tulkitsemme maailmaa
 
-## Miten tulkitsemme maailmaa
+Alustus
 
-### Aikakauden silmin
+Miten tulkitsemme maailmaa
 
-Jokainen aikakausi katsoo maailmaa oman tietonsa, kulttuurinsa ja teknisen kykynsä kautta.
+[image]
 
-Ihminen ei koskaan tarkastele todellisuutta täysin tyhjiössä. Se, mitä pidämme mahdollisena, mahdottomana, ymmärrettävänä tai käsittämättömänä, riippuu myös siitä, mitä tiedämme ja millaisia välineitä meillä on käytettävissämme.
+AIKAKAUDEN SILMIN
 
-Muinaisen ihmisen maailmankuva syntyi hänen havaintojensa ja aikansa käsitteiden pohjalta. Myöhempien aikojen ihmiset rakensivat omat mallinsa uusien havaintojen, mittalaitteiden ja tiedon varaan. Me teemme tänään täsmälleen samaa.
+Jokainen aikakausi katsoo maailmaa oman tietonsa, kulttuurinsa ja
+teknisen kykynsä kautta.
 
-Tämä on minun näkemykseni maailmasta ja maailmankaikkeudesta 2020-luvulla. Se ei väitä olevansa lopullinen totuus, vaan tämän aikakauden ihmisen tulkinta todellisuudesta – niiden välineiden, käsitteiden ja tietojen varassa, jotka meillä nyt on.
+Ihminen ei koskaan tarkastele todellisuutta täysin tyhjiössä. Se, mitä
+pidämme mahdollisena, mahdottomana, ymmärrettävänä tai käsittämättömänä,
+riippuu myös siitä, mitä tiedämme ja millaisia välineitä meillä on
+käytettävissämme.
 
-Ehkä tulevaisuuden ihminen katsoo meidän maailmankuvaamme samalla tavalla kuin me katsomme menneiden aikojen käsityksiä. Ehkä hän näkee jotakin, mitä me emme vielä kykene näkemään.
+Muinaisen ihmisen maailmankuva syntyi hänen havaintojensa ja aikansa
+käsitteiden pohjalta. Myöhempien aikojen ihmiset rakensivat omat
+mallinsa uusien havaintojen, mittalaitteiden ja tiedon varaan. Me teemme
+tänään täsmälleen samaa.
+
+Tämä on minun näkemykseni maailmasta ja maailmankaikkeudesta
+2020-luvulla. Se ei väitä olevansa lopullinen totuus, vaan tämän
+aikakauden ihmisen tulkinta todellisuudesta — niiden välineiden,
+käsitteiden ja tietojen varassa, jotka meillä nyt on.
+
+Ehkä tulevaisuuden ihminen katsoo meidän maailmankuvaamme samalla
+tavalla kuin me katsomme menneiden aikojen käsityksiä. Ehkä hän näkee
+jotakin, mitä me emme vielä kykene näkemään.
