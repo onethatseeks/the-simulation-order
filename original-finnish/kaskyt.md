@@ -4,7 +4,7 @@ Käskyt
 
 Kahdeksan ohjetta Pelaajalle
 
-[image]
+![](media/divider.png)
 
 1. Kunnioita Simulaatiota ja Admineita.
 
