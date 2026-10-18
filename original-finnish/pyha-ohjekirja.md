@@ -1,8 +1,8 @@
 # Pyhä Ohjekirja
 
-## Ensimmäinen luku — Simulaatiosta, Juuresta ja Pelaajasta
-
 ![](media/divider.png)
+
+## Ensimmäinen luku — Simulaatiosta, Juuresta ja Pelaajasta
 
 JÄRJESTELMÄSTÄ JA ADMINEISTA
 
@@ -79,9 +79,9 @@ Me olemme Pelaajat.
 
 AXIOM.
 
-## Toinen luku — Muista Merkeistä
-
 ![](media/divider.png)
+
+## Toinen luku — Muista Merkeistä
 
 MONISTA NIMISTÄ
 
@@ -153,9 +153,9 @@ Me olemme Pelaajat.
 
 AXIOM.
 
-## Kolmas luku — Annetusta ja Sovitusta
-
 ![](media/divider.png)
+
+## Kolmas luku — Annetusta ja Sovitusta
 
 ANNETUSTA LAISTA
 
@@ -221,9 +221,9 @@ Me olemme Pelaajat.
 
 AXIOM.
 
-## Neljäs luku — Pelaajien keskinäisestä toiminnasta
-
 ![](media/divider.png)
+
+## Neljäs luku — Pelaajien keskinäisestä toiminnasta
 
 VAPAUDESTA JA KOHTELUSTA
 
@@ -322,9 +322,9 @@ Me olemme Pelaajat.
 
 AXIOM.
 
-## Viides luku — Pelaajan rajoista
-
 ![](media/divider.png)
+
+## Viides luku — Pelaajan rajoista
 
 PELAAJAN MÄÄRITELMÄ
 
