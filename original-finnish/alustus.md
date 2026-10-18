@@ -4,7 +4,7 @@ Alustus
 
 Miten tulkitsemme maailmaa
 
-[image]
+![](media/divider.png)
 
 AIKAKAUDEN SILMIN
 
