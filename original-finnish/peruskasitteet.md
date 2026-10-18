@@ -1,7 +1,5 @@
 # Peruskäsitteet
 
-PERUSKÄSITTEET
-
 Simulaatio — Järjestelmän varassa toimiva toimintaympäristö, jossa
 Pelaajat elävät, tekevät havaintoja ja vaikuttavat tapahtumien kulkuun.
 Simulaation perimmäinen luonne jää avoimeksi kysymykseksi.
