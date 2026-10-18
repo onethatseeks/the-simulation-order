@@ -2,7 +2,7 @@
 
 ## Ensimmäinen luku — Simulaatiosta, Juuresta ja Pelaajasta
 
-[image]
+![](media/divider.png)
 
 JÄRJESTELMÄSTÄ JA ADMINEISTA
 
@@ -81,7 +81,7 @@ AXIOM.
 
 ## Toinen luku — Muista Merkeistä
 
-[image]
+![](media/divider.png)
 
 MONISTA NIMISTÄ
 
@@ -155,7 +155,7 @@ AXIOM.
 
 ## Kolmas luku — Annetusta ja Sovitusta
 
-[image]
+![](media/divider.png)
 
 ANNETUSTA LAISTA
 
@@ -223,7 +223,7 @@ AXIOM.
 
 ## Neljäs luku — Pelaajien keskinäisestä toiminnasta
 
-[image]
+![](media/divider.png)
 
 VAPAUDESTA JA KOHTELUSTA
 
@@ -324,7 +324,7 @@ AXIOM.
 
 ## Viides luku — Pelaajan rajoista
 
-[image]
+![](media/divider.png)
 
 PELAAJAN MÄÄRITELMÄ
 
@@ -472,8 +472,9 @@ He tarkkailevat.
 
 Loput on meidän.
 
-Pelaaja ei siis ole se, joka näyttää meiltä. Pelaaja on se, jossa on
-jotain, joka voi kokea olevansa täällä.
+Pelaaja ei siis ole se, joka näyttää meiltä. Pelaaja on se, joka kokee simulaation.
+
+![](media/divider.png)
 
 Ja niin päättyy tämä teesi siihen, mistä se alkoi: Järjestelmä on
 olemassa, ja jokainen, jolle Simulaatio on koettu todellisuus — ei vain
