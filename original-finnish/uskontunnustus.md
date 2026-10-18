@@ -1,10 +1,8 @@
 # Uskontunnustus
 
-Uskontunnustus
-
 Se, mitä me uskomme
 
-[image]
+![](media/divider.png)
 
 ❖ Me uskomme, että elämme Simulaatiossa.
 
