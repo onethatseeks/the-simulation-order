@@ -59,7 +59,7 @@ Such changes are exceptional and deliberate. Pull requests that alter the doctri
 
 Released versions of the canonical work are marked with Git tags (for example `v1.0`). A tag is the stable reference point for translations and citations.
 
-The maintainers are listed in `MAINTAINERS.md`. <!-- TODO: add MAINTAINERS.md or replace with a list here -->
+The maintainers are listed in [MAINTAINERS.md](MAINTAINERS.md)
 
 ---
 
