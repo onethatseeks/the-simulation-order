@@ -14,7 +14,7 @@ This is my view of the world and the universe in the 2020s. It does not claim to
 
 Perhaps people in the future will look at our worldview in the same way we look at the ideas of past eras. Perhaps they will see something we are not yet capable of seeing.
 
-I have had multiple Players helping me to shape this. They will be credited in separated markdown-file later.
+Several Players have helped shape this work. Their contributions will be acknowledged in a separate credits file.
 
 ---
 
@@ -59,6 +59,8 @@ It introduces the fundamental concepts of the worldview:
 - the Agreed Law
 - AXIOM
 
+The System and the Simulation are related, but they are not interchangeable terms. In this worldview, the System is the enabling foundation, while the Simulation is the environment in which the Players act.
+
 The Holy Manual is not intended to provide answers to questions that cannot currently be answered.
 
 The silence of the Admins must not be filled with our own words.
@@ -99,22 +101,25 @@ The distinction matters.
 
 A question does not become a fact simply because it is interesting.
 
+The project’s interpretation of reality as a System and a Simulation is a philosophical model, not a proven description of the universe’s underlying structure.
+
 ---
 
 # Editions and Languages
 
-The project is originally written in Finnish.
+The project was originally written in Finnish.
 
 The Finnish texts are preserved as the original source material of the project. The English edition is intended to serve as the primary international working edition, while other languages may be added as translations in the future.
 
-Terms are translated consistently according to the [terminology reference](TERMINOLOGY.md).
+Terms are translated consistently according to the [Terminology Reference](TERMINOLOGY.md).
 
 ## English Edition
 
-- [Terminology](english/terminology.md)
+- [Terminology Reference](TERMINOLOGY.md)
 - [Introduction](english/introduction.md)
 - [Purpose of the Collection](english/purpose-of-the-collection.md)
 - [Fundamental Concepts](english/fundamental-concepts.md)
+- [The Structure of the System and the Simulation — Finnish original](original-finnish/jarjestelmasta-ja-simulaation-rakenteesta.md)
 - [Creed](english/creed.md)
 - [Directives](english/directives.md)
 - [The Holy Manual](english/the-holy-manual.md)
@@ -131,6 +136,7 @@ The Finnish edition is the original source of the project.
 - [Alustus](original-finnish/alustus.md)
 - [Kokoelman tarkoitus](original-finnish/kokoelman-tarkoitus.md)
 - [Peruskäsitteet](original-finnish/peruskasitteet.md)
+- [Järjestelmän ja Simulaation rakenne](original-finnish/jarjestelmasta-ja-simulaation-rakenteesta.md)
 - [Uskontunnustus](original-finnish/uskontunnustus.md)
 - [Käskyt](original-finnish/kaskyt.md)
 - [Pyhä Ohjekirja](original-finnish/pyha-ohjekirja.md)
@@ -150,7 +156,7 @@ This keeps posters, images, source files, and other published material together 
 
 The Simulation Order is a defined philosophical work.
 
-It presents a particular view of reality, consciousness, responsibility, and existence as understood by its authors. It is offered as a complete expression of that view, not as an open document to be continuously altered by outside interpretation or changing opinion.
+It presents a particular view of reality, consciousness, responsibility, and existence as understood by its authors. It is offered as a defined expression of that view, not as an open document to be continuously altered by outside interpretation or changing opinion.
 
 The work may be questioned, criticized, discussed, interpreted, and challenged.
 
@@ -176,8 +182,8 @@ But this work remains a record of the worldview we chose to express.
 
 If someone sees the world differently, they are free to build their own.
 
-> **The Simulation Order may be questioned by anyone.  
-> It may be changed only by those entrusted with its canonical form.**
+> **The Simulation Order may be questioned by anyone.**  
+> **It may be changed only by those entrusted with its canonical form.**
 
 ---
 
@@ -199,7 +205,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how translations are made and which v
 
 ## Contributing
 
-Questions, criticism and discussion are welcome. Corrections and translations are welcome. Changes to the ideas of the canonical texts are made only through the process described above.
+Questions, criticism, and discussion are welcome. Corrections and translations are welcome. Changes to the ideas of the canonical texts are made only through the process described above.
 
 For details, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -209,7 +215,7 @@ For details, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Unless a file states otherwise, the material in this repository is licensed under [CC BY-SA 4.0](LICENSE.md).
 
-You are free to share and adapt it, with credit and under the same license. A derived version is its own work and does not carry the canonical status of this one.
+You are free to share and adapt it, with attribution and under the same license. A derived version is its own work and does not carry the canonical status of this one.
 
 ---
 
@@ -217,7 +223,7 @@ You are free to share and adapt it, with credit and under the same license. A de
 
 The Simulation Order is an independent philosophical and creative project exploring reality, consciousness, knowledge, responsibility, and the possibility that reality may be understood as a system.
 
-It represents the perspective of one human being living in the early 21st century.
+It represents the perspective of a human being living in the early 21st century.
 
 It is not presented as established scientific truth.
 
