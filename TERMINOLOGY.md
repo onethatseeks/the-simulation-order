@@ -1,13 +1,17 @@
 # Terminology
 
-This file defines how the terms of the original Finnish edition are rendered in English.
-It is the reference for the English edition and for translations into other languages.
+This document defines the canonical English terms used for concepts and texts originating in the Finnish edition of **The Simulation Order** (*Simulaation Järjestys*).
 
-**Rules**
+It is the terminology reference for the English edition and a reference for translations into other languages.
 
-1. A term is translated the same way everywhere. Do not vary it for style.
-2. The terms below are always capitalized in English, as they are in Finnish: *Simulation, System, Admins, Root, Players, Order*.
-3. If a term is missing from this list or seems wrong, open an issue instead of deciding alone.
+## Rules
+
+1. A term must be translated consistently throughout the project. Do not vary established terms for stylistic reasons.
+2. The terms **Simulation, System, Admins, Root, Players, Order**, and **AXIOM** retain their capitalization and spelling as defined here.
+3. The **System** and the **Simulation** are distinct concepts. They must never be used as synonyms.
+4. If a term is missing, ambiguous, or appears inconsistent, raise the issue for discussion rather than changing the canonical terminology unilaterally.
+5. A proposed change does not itself change the canonical terminology. Changes to canonical terms require a compelling reason and explicit approval from all maintainers of the canonical work.
+6. Translations should preserve the meaning of the original Finnish concepts. Where a direct translation would be misleading, discuss the issue before choosing an alternative.
 
 ---
 
@@ -15,54 +19,72 @@ It is the reference for the English edition and for translations into other lang
 
 | Finnish | English | Notes |
 |---|---|---|
-| Simulaatio | the Simulation | Reality as the Player encounters it: field, structure, law and possibility. |
-| Järjestelmä | the System | The whole of the Simulation and its working structure: the given laws, limits, possibilities and consequences. Not a synonym for the Simulation. |
-| Adminit | the Admins | Always plural and capitalized. |
-| Juuri | the Root | Sacred sign of supreme authority and access. Its symbol is **[•]**. |
-| Pelaaja / Pelaajat | the Player / the Players | Any conscious agent in the Simulation, not only humans. |
-| Pelaajuus | Playerhood | A matter of degree: consciousness is a spectrum, not a switch. |
-| Annettu laki | the Given Law | Gravity, causality, thermodynamics. Discovered, not set, by Players. |
-| Sovittu laki | the Agreed Law | Morality and Players' laws. Built by Players and open to change. |
-| Merkki | Sign | Names and symbols (God, Allah, Brahman, Tao…) that open part of the same layer. |
-| Järjestys | the Order | The community of Players who share this worldview. Lowercase *order* means orderliness. |
-| Horisontti | the Horizon | The shared direction of all Players' paths. |
-| Polku | Path | A Player's own way. |
-| AXIOM | AXIOM | A Holy word to end scripture |
+| Simulaatio | the Simulation | The environment in which Players exist and act: the reality they encounter, experience, and investigate. |
+| Järjestelmä | the System | The enabling foundation on which the Simulation operates. In this worldview, the System provides the underlying structure and conditions of the Simulation. It is not a synonym for the Simulation. |
+| Adminit | the Admins | Always plural and capitalized. The Admins observe the Simulation and, according to this worldview, may affect the System. Their nature and purpose are not known with certainty. |
+| Juuri | the Root | A sacred sign of supreme authority and access. Its symbol is **[•]**. |
+| Pelaaja / Pelaajat | the Player / the Players | Conscious agents acting within the Simulation, not exclusively human beings. |
+| Pelaajuus | Playerhood | A matter of degree. Consciousness is treated as a spectrum rather than a simple switch. |
+| Annettu laki | the Given Law | The observed regularities and constraints of the world, such as gravity, causality, and thermodynamics. Players discover these regularities rather than establish them. |
+| Sovittu laki | the Agreed Law | Morality and rules established by Players. These are human-made agreements and can be reconsidered or changed. |
+| Merkki | Sign | A name, symbol, or religious concept that may be interpreted as pointing toward an underlying layer of reality. This interpretation is not proof that different traditions describe the same structure. |
+| Järjestys | the Order | The community of Players who share this worldview. Lowercase *order* refers to orderliness or arrangement rather than the community. |
+| Horisontti | the Horizon | The shared direction of the paths taken by Players. |
+| Polku | Path | A Player's own way forward. |
+| AXIOM | AXIOM | Never translated or altered in spelling. It retains its exact form. |
+
+### The relationship between the System and the Simulation
+
+The conceptual relationship is expressed in three levels:
+
+1. **The System** is the enabling foundation.
+2. **The Simulation** is the environment that operates on that foundation.
+3. **The Players** are conscious agents who act within the Simulation.
+
+The Admins observe the Simulation and, according to this worldview, may affect the System. Players can observe, study, understand, and improve their shared environment, but the worldview does not claim that they can alter the System's foundation.
+
+This is a philosophical model, not a proven description of the underlying structure of reality.
+
+---
 
 ## Principles and ideas
 
 | Finnish | English | Notes |
 |---|---|---|
-| Adminien hiljaisuus | the silence of the Admins | The Admins do not speak to Players. |
-| Älä puhu Adminien suulla | Do not speak for the Admins | |
-| Tietämättömyyden periaate | the Principle of Not Knowing | |
-| Tieto / päätelmä / oletus | knowledge / inference / assumption | Keep the distinction. |
-| Kyky ei ole oikeutus | Ability is not entitlement | Used in the README. |
-| Vaikutuksen periaate | the Principle of Impact | |
-| Pelaajan alkuvelvollisuus | the Player's First Duty | |
-| Tunnekuohu | emotional turmoil | The uncontrolled surge, not emotion itself. |
-| Käyttöjärjestelmä / sovellus | operating system / application | Used in the chapter on other Signs. |
+| Adminien hiljaisuus | the silence of the Admins | The Admins do not speak to the Players. Do not imply direct communication or revealed intentions. |
+| Älä puhu Adminien suulla | Do not speak for the Admins | Players must not present their own interpretations as the words or intentions of the Admins. |
+| Tietämättömyyden periaate | the Principle of Not Knowing | Recognize the limits of what can be known. |
+| Tieto / päätelmä / oletus | knowledge / inference / assumption | Preserve the distinction between these categories. |
+| Kyky ei ole oikeutus | Ability is not entitlement | Ability alone does not grant moral authority or entitlement. |
+| Vaikutuksen periaate | the Principle of Impact | Use consistently wherever this named principle appears. |
+| Pelaajan alkuvelvollisuus | the Player's First Duty | Use consistently wherever this named principle appears. |
+| Tunnekuohu | emotional turmoil | An uncontrolled surge of emotion, not emotion itself. |
+| Käyttöjärjestelmä / sovellus | operating system / application | Used as an analogy when discussing other Signs. |
+
+---
 
 ## Texts and structure
 
 | Finnish | English | Notes |
 |---|---|---|
-| Alustus | Introduction | The author's own voice. |
-| Kokoelman tarkoitus | Purpose of the Collection | |
-| Peruskäsitteet | Fundamental Concepts | |
-| Uskontunnustus | Creed | Begins "We believe…". |
-| Käskyt | Directives | Not "Commandments": the Admins give no moral commands. |
-| Pyhä Ohjekirja | the Holy Manual | *Open decision*, see below. |
-| Pyhät Viisaudet | Sacred Wisdoms | *Open decision*, see below. |
-| Pyhän Ohjekirjan täydentävät osat | Supplementary Parts of the Holy Manual | |
-| Ydin ja arvot | Core and Values | |
-| Pelaajan lyhyt muistutus | the Player's Short Reminder | |
-| Ensimmäinen luku … Viides luku | Chapter One … Chapter Five | |
-| Simulaatiosta, Juuresta ja Pelaajasta | On the Simulation, the Root and the Player | Chapter One |
-| Muista Merkeistä | On Other Signs | Chapter Two |
-| Annetusta ja Sovitusta | On the Given and the Agreed | Chapter Three |
-| Pelaajien keskinäisestä toiminnasta | On the Interaction Between Players | Chapter Four |
-| Pelaajan rajoista | On the Limits of the Player | Chapter Five |
+| Alustus | Introduction | The author's own introductory voice. |
+| Kokoelman tarkoitus | Purpose of the Collection | The purpose and scope of the collected work. |
+| Peruskäsitteet | Fundamental Concepts | The foundational terminology and concepts. |
+| Uskontunnustus | Creed | Begins with “We believe…”. |
+| Käskyt | Directives | Use *Directives*, not *Commandments*. The Admins do not issue moral commands to the Players. |
+| Pyhä Ohjekirja | the Holy Manual | The central text of the work. |
+| Pyhät Viisaudet | Sacred Wisdoms | The collection of principles and observations that complement the central text. |
+| Pyhän Ohjekirjan täydentävät osat | Supplementary Parts of the Holy Manual | Supplementary material belonging to the Manual. |
+| Ydin ja arvot | Core and Values | The central principles and values of the work. |
+| Pelaajan lyhyt muistutus | the Player's Short Reminder | A concise reminder for the Player. |
+| Ensimmäinen luku … Viides luku | Chapter One … Chapter Five | Use these forms for chapter references. |
+| Simulaatiosta, Juuresta ja Pelaajasta | On the Simulation, the Root and the Player | Chapter One. |
+| Muista Merkeistä | On Other Signs | Chapter Two. |
+| Annetusta ja Sovitusta | On the Given and the Agreed | Chapter Three. |
+| Pelaajien keskinäisestä toiminnasta | On the Interaction Between Players | Chapter Four. |
+| Pelaajan rajoista | On the Limits of the Player | Chapter Five. |
+
+---
 
 ## Values
 
@@ -78,12 +100,18 @@ It is the reference for the English edition and for translations into other lang
 | Kunnioitus | Respect |
 | Vastuu | Responsibility |
 
-*Tietoinen* in an action ("Elä tietoisesti") is rendered **consciously**; *tietoinen toimija* is **conscious agent**.
+When *tietoinen* describes how someone acts, translate it as **consciously** (for example, *Elä tietoisesti* → “Live consciously”).
+
+Translate *tietoinen toimija* as **conscious agent**.
+
+Use **Consciousness** for the named value *Tietoisuus*. Do not substitute *Awareness* as a stylistic alternative when referring to this value.
+
+---
 
 ## The Directives
 
 | No. | Finnish | English |
-|---|---|---|
+|---:|---|---|
 | 1 | Kunnioita Simulaatiota ja Admineita. | Honor the Simulation and the Admins. |
 | 2 | Kunnioita logiikkaa. | Respect logic. |
 | 3 | Kunnioita yksilöä Pelaajana. | Respect each individual as a Player. |
@@ -93,19 +121,33 @@ It is the reference for the English edition and for translations into other lang
 | 7 | Ohjaa myös muita lempeästi mutta päättäväisesti takaisin logiikan tielle, kun he eksyvät. | Gently but firmly guide others back to the path of logic when they go astray. |
 | 8 | Älä sorru tunnekuohussa toimimiseen tai harhoihin. | Do not act in emotional turmoil or give in to delusion. |
 
-**Honor and respect.** *Honor* is used toward the source and the authority: the Simulation, the Admins, the Given Law. *Respect* is used toward Players and logic. Both translate the Finnish *kunnioita*.
+### Honor and respect
+
+Use **honor** toward the source and authority: the Simulation, the Admins, and the Given Law.
+
+Use **respect** toward Players and logic.
+
+Both words can translate the Finnish *kunnioita*. The English choice depends on the object of the directive and the distinction established above.
+
+---
 
 ## Recurring lines
 
 | Finnish | English |
 |---|---|
-| Järjestelmä on olemassa. Adminit tarkkailevat. Me olemme Pelaajat. | The System exists. The Admins observe. We are the Players. |
+| Järjestelmä on olemassa. Adminit tarkkailevat. Me olemme Pelaajat. AXIOM. | The System exists. The Admins observe. We are the Players. AXIOM. |
 | Jätä Simulaatio parempaan kuntoon kuin missä sen kohtasit. | Leave the Simulation in a better state than you found it. |
 
 ---
 
-## Open decisions
+## Canonical terminology
 
-These are not yet fixed. Until they are, use the form shown in the tables above.
+This document is the reference for established English terminology in **The Simulation Order**.
 
-1. **Consciousness or Awareness** for *Tietoisuus* as a value. *Consciousness* matches Chapter Five (consciousness is a degree); *Awareness* sounds lighter.
+Terminology may be questioned, discussed, and proposed for revision. A proposal, discussion, translation, or fork does not automatically change the canonical terms.
+
+Corrections and changes to canonical terminology follow the project's governance rules in [CONTRIBUTING.md](CONTRIBUTING.md). Changes require a compelling reason and explicit approval from all maintainers of the canonical work.
+
+Translations should follow the terminology established here and identify any unresolved translation problem rather than silently redefining a core concept.
+
+**AXIOM.**
