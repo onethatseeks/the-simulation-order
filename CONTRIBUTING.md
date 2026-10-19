@@ -10,7 +10,7 @@ In short:
 
 - **Questions, criticism and discussion are welcome.**
 - **Corrections and translations are welcome.**
-- **Changes to the ideas of the canonical texts are not accepted as pull requests.** If you see the world differently, you are free to build your own version (see [Forks](#forks)).
+- **Changes to the ideas of the canonical texts are not accepted as pull requests.** If you see the world differently, you are free to build your own version (see [Forks](#5-forks)).
 
 ---
 
