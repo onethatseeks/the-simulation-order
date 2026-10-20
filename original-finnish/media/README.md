@@ -9,7 +9,7 @@ Black background (Original)
 - [A4 poster — Finnish, 300 dpi (PNG)](THE_SIMULATION_ORDER_Poster_A4_FI_300dpi.png)
 
 White background
-- [A3 poster — Finnish, White, 300 dpi (PNG)](THE_SIMULATION_ORDER_Poster_A3_FI__White_300dpi.png)
+- [A3 poster — Finnish, White, 300 dpi (PNG)](THE_SIMULATION_ORDER_Poster_A3_FI_White_300dpi.png)
 - [A4 poster — Finnish, White, 300 dpi (PNG)](THE_SIMULATION_ORDER_Poster_A4_FI_White_300dpi.png)
 
 ## Source files
