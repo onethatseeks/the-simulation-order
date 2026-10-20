@@ -2,6 +2,8 @@
 
 SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
+Full legal code: LICENSES/CC-BY-NC-SA-4.0.txt
+
 Unless a file states otherwise, original material in this repository that the project has the right to license is offered under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
 
 - License summary: https://creativecommons.org/licenses/by-nc-sa/4.0/
