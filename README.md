@@ -14,17 +14,17 @@ This is my view of the world and the universe in the 2020s. It does not claim to
 
 Perhaps people in the future will look at our worldview in the same way we look at the ideas of past eras. Perhaps they will see something we are not yet capable of seeing.
 
-I have had multiple Players helping me to shape this. They will be credited in separated markdown-file later.
+I have had multiple Players helping me shape this. They will be credited in a separate Markdown file later.
 
 ---
 
 ## What Is The Simulation Order?
 
-The Simulation Order is a defined philosophical work.
-
-It presents a particular view of reality, consciousness, responsibility, and existence as expressed in this work.
+The Simulation Order is a philosophical framework built around a simple possibility:
 
 > **What if reality is a system?**
+
+It presents a particular view of reality, consciousness, responsibility, and existence, as expressed in this work.
 
 It explores questions concerning:
 
@@ -75,7 +75,7 @@ Among them:
 
 > **The silence of the Admins must not be filled with our own words.**
 
-> **The Admins have given us the System. They have not given us all its answers.**
+> **We believe the Admins have given us the System. They have not given us all its answers.**
 
 ---
 
@@ -208,6 +208,8 @@ For details, see [CONTRIBUTING.md](CONTRIBUTING.md).
 ---
 
 ## License
+
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Unless a file states otherwise, material in this repository that the project has the rights to license is offered under [CC BY-NC-SA 4.0](LICENSE.md).
 
