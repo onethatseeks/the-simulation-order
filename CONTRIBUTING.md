@@ -59,7 +59,7 @@ Such changes are exceptional and deliberate. Pull requests that alter the doctri
 
 Released versions of the canonical work are marked with Git tags (for example `v1.0`). A tag is the stable reference point for translations and citations.
 
-The maintainers are listed in [MAINTAINERS.md](MAINTAINERS.md)
+The maintainers are listed in [MAINTAINERS.md](MAINTAINERS.md).
 
 ---
 
@@ -68,7 +68,7 @@ The maintainers are listed in [MAINTAINERS.md](MAINTAINERS.md)
 Translations are welcome. The English edition is the primary international working edition, and other languages may be added.
 
 - Translate from a **tagged release** of the Finnish original and state which tag you used.
-- Use the project's terminology list (`english/terminology.md` or the corresponding file for your language) and keep the same terms throughout. Terms such as *the Simulation*, *the System*, *the Admins*, *the Root*, *the Players*, *the Given Law* and *the Agreed Law* should be translated consistently.
+- Use the project's terminology list ([`TERMINOLOGY.md`](TERMINOLOGY.md) or the corresponding file for your language) and keep the same terms throughout. Terms such as *the Simulation*, *the System*, *the Admins*, *the Root*, *the Players*, *the Given Law* and *the Agreed Law* should be translated consistently.
 - Preserve the meaning and structure of the original while letting the language sound natural.
 - Each language has its own directory and its own `media/` folder for language-specific material.
 - Do not add, remove or reinterpret content in a translation. If you believe the original contains an error, open an issue instead.
@@ -80,7 +80,7 @@ Open an issue before starting a new language, so that work is not duplicated.
 
 ## 5. Forks
 
-Anyone is free to build upon these ideas, reinterpret them, or create a different version of them. This is explicitly encouraged by the [license](LICENSE.md).
+Anyone is free to build upon these ideas, reinterpret them, or create a different version of them. This is permitted for non-commercial purposes under the [license](LICENSE.md), subject to its terms.
 
 A fork should:
 
@@ -88,7 +88,7 @@ A fork should:
 - **not use the canonical name as its own** in a way that suggests it is official (for example, avoid presenting it simply as "The Simulation Order"),
 - **credit the original** and link to this repository,
 - **indicate what has been changed**, as the license requires,
-- be released under the same license (see `LICENSE.md`).
+- be released under the same or a Creative Commons-approved compatible license as required by CC BY-NC-SA 4.0 (see [LICENSE.md](LICENSE.md)).
 
 Different interpretations of the Admins, different orders and different emphasis within the same worldview are all legitimate. They simply live as their own works.
 
@@ -107,7 +107,7 @@ Different interpretations of the Admins, different orders and different emphasis
 
 - Write issues and pull requests in **English or Finnish**.
 - Use clear commit messages (for example `Fix typo in introduction.md` or `Add German translation of Statement of Faith`).
-- By contributing, you agree that your contribution is released under the project's license.
+- By contributing, you agree to release your contribution under the project's license, provided you have the rights needed to do so. See [LICENSING.md](LICENSING.md).
 - If you are unsure whether something counts as a correction or a canonical change, open an issue and ask first.
 
 ---
