@@ -1,227 +1,89 @@
 # Licensing
 
-This document explains how the license applies to *The Simulation Order*
-and how licensing relates to its canonical status, translations, forks,
-and contributions.
+This document explains how licensing applies to *The Simulation Order* and how the license relates to canonical status, translations, forks, media, and contributions.
 
-The legal license for the material in this repository is:
+## License
 
-## Creative Commons Attribution-ShareAlike 4.0 International
+The project's chosen license is **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
 
-**CC BY-SA 4.0**
+- [License summary](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- [Official legal code](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en)
+- [Repository license notice](LICENSE.md)
 
-See [LICENSE.md](LICENSE.md) for the full license text.
+The official Creative Commons license governs. This document is a plain-language explanation and does not amend the license.
 
-You can also read the official license at:
+## What the license permits
 
-https://creativecommons.org/licenses/by-sa/4.0/
+Subject to the license terms, people may share, redistribute, translate, remix, transform, and adapt covered material, and share adaptations for non-commercial purposes. They must provide appropriate attribution, link to the license, indicate changes, and apply the same or a Creative Commons-approved compatible license to adaptations as required by CC BY-NC-SA 4.0.
 
----
+**Commercial use is not granted by this license.** The license defines non-commercial use by whether it is primarily intended for or directed toward commercial advantage or monetary compensation. Borderline cases may require legal advice or separate permission from the relevant rights holder.
 
-## Copyright
+The license applies only to rights that the relevant licensor has authority to grant. It does not give the project control over ideas as such, uses permitted by copyright exceptions, or rights owned by others.
 
-Copyright (c) 2026 onethatseeks and The Simulation Order
+## Copyright and scope
 
-Unless a file states otherwise, the texts, images, posters, source files,
-and other original material in this repository are released under
-CC BY-SA 4.0.
+Copyright notice for project-authored material:
 
-Third-party material remains under its own license.
+> Copyright (c) 2026 onethatseeks
 
----
+Unless a file states otherwise, this project intends to release under CC BY-NC-SA 4.0 the original texts, layouts, posters, images, source files, and other material for which the project has the necessary rights to grant this license.
 
-## In plain language
+This statement does not claim rights the project does not own or cannot license. AI-generated material is included only to the extent the project has the rights needed to offer it under this license. The legal status of AI-generated output can vary by jurisdiction and circumstances.
 
-The legal license is the authority. This section is only a practical
-summary.
+Third-party material remains subject to its own license or terms and must not be assumed to be covered by the project's license merely because it appears in the repository. Any excluded or separately licensed material should be identified in the relevant file or here.
 
-You are free to:
-
-- **Share** — copy and redistribute the material in any medium or format.
-- **Adapt** — remix, transform, and build upon the material, including
-  for commercial purposes.
-
-Under the license:
-
-- **Attribution** — give appropriate credit, provide a link to the
-  license, and indicate whether changes were made.
-- **ShareAlike** — adaptations must be distributed under the same license.
-- **No additional restrictions** — you may not add legal or technological
-  restrictions that prevent others from exercising the rights granted by
-  the license.
-
----
+No font files are intentionally distributed as part of the project's media. If this changes, the applicable font license must be checked and documented.
 
 ## Suggested attribution
 
-When using or adapting material from this repository, the following
-attribution is recommended:
+> Based on *The Simulation Order* by onethatseeks. Source: https://github.com/onethatseeks/the-simulation-order. Licensed under CC BY-NC-SA 4.0. [Describe changes made.]
 
-> Based on *The Simulation Order* by onethatseeks and The Simulation Order,
-> https://github.com/onethatseeks/the-simulation-order,
-> licensed under CC BY-SA 4.0. [Describe any changes made.]
+Adaptations and translations should also identify the source version or Git tag where reasonably practicable.
 
-For translations, also state which version of the original work the
-translation was based on.
+## Canonical status and independent versions
 
----
+The license grants permissions to use covered material under its terms. It does **not** make a translation, adaptation, or fork an official version of *The Simulation Order*.
 
-## Canonical status
+The canonical version is the version explicitly maintained and recognized by the project through its documented governance process. The project maintainers determine which version is canonical.
 
-The CC BY-SA license allows anyone to copy, adapt, translate, and build
-upon this work.
+Anyone may question, criticize, discuss, interpret, translate, quote, adapt, fork, or build upon the work within the bounds of applicable law and the license. Those activities do not change the canonical work.
 
-That freedom does not give a derivative work canonical status.
+A fork or adaptation should identify itself clearly as an independent version, credit and link to the original, describe changes as required by the license, and avoid implying that it is maintained, approved, or endorsed by the canonical project.
 
-The canonical version of *The Simulation Order* is the version maintained
-in this repository by its maintainers.
+The project name identifies the canonical project. This is a statement of identity and non-endorsement, not an attempt to add restrictions to the rights granted by the Creative Commons license.
 
-The work may be:
+Changes to the canonical texts and core ideas are governed separately by [CONTRIBUTING.md](CONTRIBUTING.md), with responsibility identified in [MAINTAINERS.md](MAINTAINERS.md) and accepted changes recorded in [CHANGELOG.md](CHANGELOG.md).
 
-- questioned,
-- criticized,
-- discussed,
-- interpreted,
-- translated,
-- quoted,
-- adapted,
-- forked, and
-- built upon.
+## Translations and language-specific media
 
-These activities do not alter the canonical work.
+The Finnish edition is the original source edition. Translations should identify the Finnish source version or tag on which they are based and preserve the meaning and terminology of the source.
 
-Changes to the canonical work are governed separately by the project's
-contribution rules. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Each language edition may have its own `media/` directory for language-specific posters and other publications. The presence of a file in a language directory does not by itself establish that every embedded or third-party element is covered by this license.
 
-A fork or derivative work should make clear that it is a fork or derivative
-and should not present itself as the canonical version of *The Simulation
-Order*.
+## Contributions and credits
 
----
+The work has been shaped with the help of multiple Players. Contributors may include writers, editors, translators, researchers, artists, and people using AI-assisted tools.
 
-## The name and identity of the work
-
-The name *The Simulation Order* identifies the canonical project.
-
-The license does not grant permission to imply that a derivative work is
-officially endorsed, sponsored, or maintained by the original project.
-
-Forks and substantial adaptations are encouraged to establish their own
-identity while clearly crediting the original work.
-
-The project's terminology and naming conventions are documented in
-[TERMINOLOGY.md](TERMINOLOGY.md).
-
----
-
-## Translations
-
-A translation is an adaptation of the original work and is therefore
-covered by CC BY-SA 4.0.
-
-Translations should:
-
-1. identify *The Simulation Order* as the original work;
-2. credit the original author and relevant Players;
-3. link to this repository;
-4. identify the original version or release from which the translation
-   was made; and
-5. indicate that the translation is a translation rather than the original
-   canonical text.
-
-Each language edition may maintain its own `media/` directory because
-visual material may need to be adapted for the language edition.
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the project's translation
-guidelines.
-
----
-
-## Players and contributions
-
-The Simulation Order has been shaped with the help of multiple Players.
-
-Players may include human contributors, editors, translators, researchers,
-artists, and AI-assisted contributors.
-
-Contributors will be credited separately where appropriate.
-
-The project's contributor credits do not by themselves determine legal
-copyright ownership. Copyright and licensing remain subject to applicable
-law and the terms of the CC BY-SA license.
-
----
-
-## Third-party material
-
-Material created by third parties and included in this repository remains
-under its original license unless explicitly stated otherwise.
-
-This may include, for example:
-
-- fonts,
-- icons,
-- photographs,
-- illustrations,
-- external artwork,
-- quotations, and
-- other media.
-
-Third-party material should not be assumed to be covered by the project's
-CC BY-SA license merely because it appears in the repository.
-
-A list of third-party material and its applicable licenses should be
-maintained here as the project grows.
-
----
-
-## Commercial use
-
-Commercial use is permitted by CC BY-SA 4.0.
-
-The project is intentionally open and does not require a non-commercial
-license.
-
-The creators do not expect financial gain to be the primary purpose of
-*The Simulation Order*. However, the license does not prohibit others from
-commercially using or adapting material under its terms.
-
-Any such use must comply with the CC BY-SA 4.0 license.
-
----
+Credits acknowledge contributions but do not by themselves determine legal copyright ownership or establish that the project has authority to license every contribution. Contributions should only be submitted under the project's license when the contributor has the rights needed to do so.
 
 ## Disclaimer
 
-*The Simulation Order* is an independent philosophical and creative work.
+*The Simulation Order* is an independent philosophical and creative work. It presents an interpretation of reality, consciousness, responsibility, and existence; it is not presented as established scientific fact.
 
-It presents an interpretation of reality, consciousness, responsibility,
-and existence. It does not claim to represent established scientific fact.
+The material is provided subject to the terms and disclaimers in the official license. See [LICENSE.md](LICENSE.md).
 
-The material is provided "as is". See [LICENSE.md](LICENSE.md) for the
-complete legal disclaimer and limitation of liability.
+## Related project documents
 
----
+- [LICENSE.md](LICENSE.md) — license notice and official license links.
+- [CONTRIBUTING.md](CONTRIBUTING.md) — contributions, translations, corrections, forks, and canonical changes.
+- [MAINTAINERS.md](MAINTAINERS.md) — canonical responsibility.
+- [TERMINOLOGY.md](TERMINOLOGY.md) — terminology and translation reference.
+- [CHANGELOG.md](CHANGELOG.md) — documented canonical changes.
 
-## Relationship between the project documents
-
-The repository uses several documents for different purposes:
-
-- **LICENSE.md** — the actual legal license.
-- **LICENSING.md** — practical explanation of how the license applies to
-  this project.
-- **CONTRIBUTING.md** — rules for contributions, translations, corrections,
-  forks, and changes to the canonical work.
-- **TERMINOLOGY.md** — canonical terminology and translation reference.
-- **CHANGELOG.md** — documented changes to the canonical work.
-
-The legal license always takes precedence over this explanatory document.
-
----
-
-> **The work may be shared by anyone.**
+> **The work may be shared and adapted for non-commercial purposes under its license.**
 >
 > **The canonical work may be questioned by anyone.**
 >
-> **Its canonical form may be changed only by those entrusted with it.**
+> **Its canonical form is determined through the project's documented governance process.**
 >
 > **AXIOM.**
