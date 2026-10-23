@@ -19,4 +19,6 @@ White background
 
 The source archive contains the editable HTML layouts and image assets used to assemble the posters. Use these files as the starting point for creating translated poster editions. Update the text and any language-specific details, then export the finished poster at the required print size and resolution.
 
+Written document for the Finnish collection can be found in [RTF-file](Simulaation_Jarjestys_Pyha_Kokoelma.rtf)
+
 Please preserve attribution and comply with the project's [CC BY-NC-SA 4.0 license](../../LICENSE.md) when adapting or redistributing these materials. Translated editions should be placed in the corresponding language edition's own `media/` directory.
