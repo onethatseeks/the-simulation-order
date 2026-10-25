@@ -14,8 +14,7 @@ White background
 
 ## Source files
 
-- [Poster source files and desktop_wallpaper assets (ZIP)](Poster_Sourcecodes_and_BG.zip)
-- [Poster source files with white background assets (ZIP)](Poster_Sourcecodes_White.zip)
+- [All poster source files and desktop_wallpaper assets (ZIP)](Poster_Sourcecodes_and_BG.zip)
 
 The source archive contains the editable HTML layouts and image assets used to assemble the posters. Use these files as the starting point for creating translated poster editions. Update the text and any language-specific details, then export the finished poster at the required print size and resolution.
 
