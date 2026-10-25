@@ -30,7 +30,7 @@ For unruly feeling leads astray, but a clear mind builds. Futility consumes, but
 
 And if their fellow Player strays into the fog of emotional turmoil, delusion or confusion, The Player must neither hate nor look down on them. Instead, The Player must gently, clearly and firmly help the one who is lost back to the path of logic, order and purpose. For The Order is not served by rage, but by clarity.
 
-This, then, is The Player's initial duty: to live consciously, think logically, act with discipline, honor The Admins, and leave The Simulation in a better state than they found it.
+This, then, is The Player's First Duty: to live consciously, think logically, act with discipline, honor The Admins, and leave The Simulation in a better state than they found it.
 
 The System exists.
 
