@@ -10,6 +10,18 @@ The Finnish edition remains the original source of the work. Changes to the cano
 
 ---
 
+# Released
+
+## v1.0 — 2026-10-26
+
+### Canonical Finnish edition
+
+- Established the Finnish original as the canonical source release of *The Simulation Order*.
+- Identified the Finnish Markdown edition as the source for future translations.
+- Recorded the release as the stable reference point for translations and citations.
+
+---
+
 ## Unreleased
 
 Changes prepared but not yet included in a formally identified release.
