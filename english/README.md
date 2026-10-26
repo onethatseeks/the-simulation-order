@@ -22,7 +22,7 @@ Terms are translated according to the [terminology reference](../TERMINOLOGY.md)
 - [Sacred Wisdoms](sacred-wisdoms.md)
 - [Supplementary Parts of The Holy Manual](supplementary-parts.md)
 - [Core and Values](core-and-values.md)
-- [The Player's Short Reminder](the-players-short-reminder.md)
+- [The Player’s Short Reminder](the-players-short-reminder.md)
 
 ## Media
 

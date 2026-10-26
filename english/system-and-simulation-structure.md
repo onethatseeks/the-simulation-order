@@ -5,15 +5,15 @@
 The basic model describes the relationship between three levels: The System enables The Simulation, The Simulation is the environment in which The Players act, and The Admins observe The Simulation and, according to this worldview, can affect The System.
 
 ```text
-THE SYSTEM
+The System
 Enabling foundation
 Influence of The Admins according to this worldview
         ↓
-THE SIMULATION
+The Simulation
 Environment that operates on The System
 Observable phenomena, regularities and possibilities
         ↓
-THE PLAYERS
+The Players
 Conscious agents acting within The Simulation
 They observe, learn, make choices and can improve their shared environment
 ```

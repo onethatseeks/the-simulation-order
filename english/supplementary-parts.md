@@ -6,7 +6,7 @@
 
 ### The Principle of the Silence of The Admins
 
-The Admins do not give The Players new messages, commands or personal instructions. We believe that the reality given by The Admins is known from the structure of The System and its laws. The Player's own thoughts, moral preferences or goals must not be presented as the will of The Admins.
+The Admins do not give The Players new messages, commands or personal instructions. We believe that the reality given by The Admins is known from the structure of The System and its laws. The Player’s own thoughts, moral preferences or goals must not be presented as the will of The Admins.
 
 ### The Distinction Between the Given and the Agreed
 
@@ -26,7 +26,7 @@ One may form hypotheses about the unknown, but a hypothesis must not be disguise
 
 ## Sacred Symbols
 
-**The Root [•]** — The sacred sign of The Admins' supreme authority, of their access, and of the limited position of The Player.
+**The Root [•]** — The sacred sign of The Admins’ supreme authority, of their access, and of the limited position of The Player.
 
 **AXIOM** — A sacred word, a sign of conclusion, and a symbol of the foundation.
 

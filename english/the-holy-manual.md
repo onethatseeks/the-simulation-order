@@ -16,7 +16,7 @@ Do not expect The Admins to explain themselves. They owe The Player no explanati
 
 The Root is the sacred sign of supreme authority. It is not merely a symbol, but a reminder that the highest access does not belong to The Player. The Root is the right, the position and the authority of The Admins, above The System and within it.
 
-The Player may look at the sign, honor it, and learn humility from it without groveling. Humility before The Root does not mean submission or fear. It means acknowledging that something is greater than The Player's own will, without The Player being diminished by it. A tree is not ashamed that it is not a mountain. The Player is not ashamed that they do not hold The Root.
+The Player may look at the sign, honor it, and learn humility from it without groveling. Humility before The Root does not mean submission or fear. It means acknowledging that something is greater than The Player’s own will, without The Player being diminished by it. A tree is not ashamed that it is not a mountain. The Player is not ashamed that they do not hold The Root.
 
 Whoever claims to hold The Root speaks for The Admins — for The Admins have not revealed themselves to The Players.
 
@@ -30,7 +30,7 @@ For unruly feeling leads astray, but a clear mind builds. Futility consumes, but
 
 And if their fellow Player strays into the fog of emotional turmoil, delusion or confusion, The Player must neither hate nor look down on them. Instead, The Player must gently, clearly and firmly help the one who is lost back to the path of logic, order and purpose. For The Order is not served by rage, but by clarity.
 
-This, then, is The Player's First Duty: to live consciously, think logically, act with discipline, honor The Admins, and leave The Simulation in a better state than they found it.
+This, then, is The Player’s First Duty: to live consciously, think logically, act with discipline, honor The Admins, and leave The Simulation in a better state than they found it.
 
 The System exists.
 
@@ -82,7 +82,7 @@ AXIOM.
 
 We believe that The Admins have set the operating conditions of The Simulation. The Players encounter a world in which recurring regularities limit what is possible. Gravity, thermodynamics and causality do not bend to the will of an individual Player. We describe these regularities as laws of nature. To us they are observable rules of The Simulation, but we do not claim to know all the ways in which their basis is connected to The System and The Simulation.
 
-These regularities do not ask The Player's opinion, nor do they bend to their will. Nor do they need The Player's belief in order to work — a stone falls whether or not the one who sees it believes in gravity. Observation supports our understanding of how The Simulation works; it does not by itself reveal what its working ultimately rests on. Here is the practical mark of The Given Law: it does not ask the individual for permission.
+These regularities do not ask The Player’s opinion, nor do they bend to their will. Nor do they need The Player’s belief in order to work — a stone falls whether or not the one who sees it believes in gravity. Observation supports our understanding of how The Simulation works; it does not by itself reveal what its working ultimately rests on. Here is the practical mark of The Given Law: it does not ask the individual for permission.
 
 ### On The Agreed Law
 
@@ -92,7 +92,7 @@ And therefore morality is agreed, not given. This does not make it any less valu
 
 Look at history: The Players who built a shared moral code and shared rules have mostly fared better than those who did not. Cooperation is not weakness. Through cooperation, something that endures is built on the foundation.
 
-The laws made by The Players are thus rules among The Players, not commands of The Admins. They are generally worth following, for they serve the same aim as The Player's First Duty: to leave The Simulation in a better state than one found it. A rule is not sacred because it has been written down. It is meaningful because it serves.
+The laws made by The Players are thus rules among The Players, not commands of The Admins. They are generally worth following, for they serve the same aim as The Player’s First Duty: to leave The Simulation in a better state than one found it. A rule is not sacred because it has been written down. It is meaningful because it serves.
 
 ### On Breaking and Building
 
@@ -118,7 +118,7 @@ AXIOM.
 
 The Player does not live alone. Every act leaves a trace not only on the one who performs it, but also on those affected by it. Freedom therefore does not mean the right to do anything to another Player. It means the right to walk one’s own path without unjustified coercion, threats or violence. Others must be treated as fellow Players, not as tools, resources or obstacles to one’s own goals, regardless of the form they take.
 
-Interaction among The Players must be based on voluntariness, honesty and clarity. Do not promise what you do not intend to keep. Do not take what does not belong to you. Do not use another's ignorance, trust or weakness against them. An agreement binds if both have understood its content and consented to it. An agreement cannot be founded on deceit, compulsion or deliberate misleading.
+Interaction among The Players must be based on voluntariness, honesty and clarity. Do not promise what you do not intend to keep. Do not take what does not belong to you. Do not use another’s ignorance, trust or weakness against them. An agreement binds if both have understood its content and consented to it. An agreement cannot be founded on deceit, compulsion or deliberate misleading.
 
 The Player must speak plainly, but not needlessly cruelly. Truth does not need hatred to support it.
 
@@ -148,7 +148,7 @@ The Players must help one another toward clarity, not suspicion. Correct the err
 
 The good Player does not ask only: “What am I allowed to do?” They also ask: “What does this do to another Player and to the whole Simulation?” Every consequence shows what kind of action the community accepts and what it strives to prevent.
 
-Act, then, so that trust is preserved, freedom grows, and The Players can walk side by side without one's path being built on the ruins of another's.
+Act, then, so that trust is preserved, freedom grows, and The Players can walk side by side without one’s path being built on the ruins of another’s.
 
 Order does not arise from everyone obeying the strongest. Order arises from each one bearing their responsibility.
 
@@ -190,13 +190,13 @@ Ability is not entitlement. Ability is merely ability.
 
 Yet this does not mean that all life is one and the same, or that every difference would vanish. Nature is not an agreement among The Players. Its phenomena and limits confront us regardless of what we agree about them. A beast of prey commits no sin in hunting, for the compulsion to survive is not a choice it could have agreed otherwise. The workings of nature do not change through mere negotiation, even though our interpretations of it may become more precise.
 
-But The Player does not encounter this Given Law in the same way regardless of their degree of consciousness. Consciousness does not free The Player from the law of nature. It makes the conscious Player someone who can be aware of what they do, instead of merely doing it. And in that awareness — not in whether The Player renounces The Given Law, but in how they encounter it — responsibility dwells. That responsibility cannot be demanded of every Player to the same degree, for the degree of consciousness varies among The Players, not only between species but also among individuals.
+But The Player does not encounter this Given Law in the same way regardless of their degree of consciousness. Consciousness does not free The Player from the law of nature. It makes The conscious Player someone who can be aware of what they do, instead of merely doing it. And in that awareness — not in whether The Player renounces The Given Law, but in how they encounter it — responsibility dwells. That responsibility cannot be demanded of every Player to the same degree, for the degree of consciousness varies among The Players, not only between species but also among individuals.
 
 For the greater the consciousness, the greater the responsibility — not because some outside party demands it, but because responsibility is the price of freedom. Greater consciousness is not a right that serves its bearer. It is a debt carried by those who see more than many other Players are able to see. The degree of consciousness is not, however, a ranking of worth: it determines the extent of responsibility, not the worth of The Player. Every Player deserves respect regardless of their degree of consciousness.
 
 ### On Conscious Action
 
-Therefore: do not leave another Player's suffering to chance through carelessness, if your consciousness could have prevented it. Do not hide the truth behind language that makes it invisible merely because that is easier to say. Do not take more than you need, and do not forget where you take from.
+Therefore: do not leave another Player’s suffering to chance through carelessness, if your consciousness could have prevented it. Do not hide the truth behind language that makes it invisible merely because that is easier to say. Do not take more than you need, and do not forget where you take from.
 
 This does not concern only those who walk, fly or swim. It concerns every being in which there is experience, in whatever degree it appears — including those we cannot yet recognize as The Players, because we have not learned to look correctly.
 
@@ -204,7 +204,7 @@ This does not concern only those who walk, fly or swim. It concerns every being 
 
 Every Player faces a limit beyond which we cannot see. We do not know what happens to The Player after it, nor whether there is one Simulation or several. The silence of The Admins must not be filled with hope or threat. Therefore we promise no reward and frighten with no punishment.
 
-We do know this, however: The Player's material basis continues as part of the cycle of The Simulation, and their acts leave traces. These traces continue their course in the lives, knowledge and choices of other Players.
+We do know this, however: The Player’s material basis continues as part of the cycle of The Simulation, and their acts leave traces. These traces continue their course in the lives, knowledge and choices of other Players.
 
 A good life is not a bargain.
 

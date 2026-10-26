@@ -6,11 +6,11 @@
 
 **The Admins** — Those who observe The Simulation. According to this worldview, they have the ability to affect The System. Their nature, purposes and grounds for action have not been revealed to us. Their silence is not filled with our own words.
 
-**The Root** — The sacred sign of The Admins' supreme authority, of their access, and of the limited position of The Player.
+**The Root** — The sacred sign of The Admins’ supreme authority, of their access, and of the limited position of The Player.
 
 **The Player** — A conscious agent acting within The Simulation who can observe, learn, make choices and influence their environment.
 
-**The Given Law** — The regularities and limits that The Players observe and that do not bend to an individual's will, such as gravity, thermodynamics and causality. They describe how reality behaves; we do not claim to know with certainty their ultimate basis, or its location in the relationship between The System and The Simulation.
+**The Given Law** — The regularities and limits that The Players observe and that do not bend to an individual’s will, such as gravity, thermodynamics and causality. They describe how reality behaves; we do not claim to know with certainty their ultimate basis, or its location in the relationship between The System and The Simulation.
 
 **The Agreed Law** — The moral and social rules built by The Players. Their worth depends on whether they serve The Players and The Simulation.
 

@@ -1,4 +1,4 @@
-# The Player's Short Reminder
+# The Player’s Short Reminder
 
 ![](media/divider.png)
 
@@ -10,17 +10,17 @@ Separate knowledge from assumption.
 
 Respect the other Player.
 
-Do not speak for the Admins.
+Do not speak for The Admins.
 
 Do not confuse ability with entitlement.
 
-Bear the responsibility that comes with your freedom.
+Bear the responsibility for your freedom.
 
 Build more than you destroy.
 
-Leave the Simulation in a better state than you found it.
+Leave The Simulation in a better state than you found it.
 
 The System exists.  
 The Admins observe.  
-We are the Players.  
+We are The Players.  
 AXIOM.
