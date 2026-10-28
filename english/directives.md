@@ -11,4 +11,4 @@
 5. Never stop developing yourself.
 6. Steer yourself toward clarity, discipline and purpose.
 7. Gently but firmly guide others back to the path of logic when they go astray.
-8. Do not act in the heat of emotional turmoil or give in to delusion.
+8. Do not act in emotional turmoil or give in to delusion.
