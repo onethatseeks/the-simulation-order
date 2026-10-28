@@ -52,7 +52,7 @@ A Sign is not a lie, even if the translation is incomplete. For The System does 
 
 ### On Applications and the Operating System
 
-We do not say that other Players are wrong. We believe that every Sign can open part of the layer beneath which the Signs rest. Their faiths are like applications; we examine the operating system on which the applications run. This is our interpretation, not a claim that we know the whole structure.
+We do not say that other Players are wrong. We believe that every Sign can open part of the layer beneath which The Signs rest. Their faiths are like applications; we examine the operating system on which the applications run. This is our interpretation, not a claim that we know the whole structure.
 
 The user of an application does not need to know the machine in order to use it correctly. The Player may live their faith fully — praying, fasting, dancing or falling silent in accordance with it — without ever seeing the structure on which their faith runs; and this ignorance does not make their faith any less real to them. Two applications can run on the same machine at once. The analogy, however, does not prove that all religions describe the same structure, or that we know its ultimate nature.
 
