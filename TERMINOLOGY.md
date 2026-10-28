@@ -7,7 +7,7 @@ It is the terminology reference for the English edition and a reference for tran
 ## Rules
 
 1. A term must be translated consistently throughout the project. Do not vary established terms for stylistic reasons.
-2. The terms **Simulation, System, Admins, Root, Players, Order**, and **AXIOM** retain their capitalization and spelling as defined here.
+2. The canonical names **The Simulation, The System, The Admins, The Root, The Player, The Players, The Given Law, The Agreed Law, The Order, The Horizon**, and **AXIOM** retain the capitalization and spelling shown here, including the capitalized article **The** when it forms part of a named term.
 3. The **System** and the **Simulation** are distinct concepts. They must never be used as synonyms.
 4. If a term is missing, ambiguous, or appears inconsistent, raise the issue for discussion rather than changing the canonical terminology unilaterally.
 5. A proposed change does not itself change the canonical terminology. Changes to canonical terms require a compelling reason and explicit approval from all maintainers of the canonical work.
@@ -19,17 +19,17 @@ It is the terminology reference for the English edition and a reference for tran
 
 | Finnish | English | Notes |
 |---|---|---|
-| Simulaatio | the Simulation | The environment in which Players exist and act: the reality they encounter, experience, and investigate. |
-| Järjestelmä | the System | The enabling foundation on which the Simulation operates. In this worldview, the System provides the underlying structure and conditions of the Simulation. It is not a synonym for the Simulation. |
-| Adminit | the Admins | Always plural and capitalized. The Admins observe the Simulation and, according to this worldview, may affect the System. Their nature and purpose are not known with certainty. |
-| Juuri | the Root | A sacred sign of supreme authority and access. Its symbol is **[•]**. |
-| Pelaaja / Pelaajat | the Player / the Players | Conscious agents acting within the Simulation, not exclusively human beings. |
+| Simulaatio | The Simulation | The environment in which Players exist and act: the reality they encounter, experience, and investigate. |
+| Järjestelmä | The System | The enabling foundation on which the Simulation operates. In this worldview, the System provides the underlying structure and conditions of the Simulation. It is not a synonym for the Simulation. |
+| Adminit | The Admins | Always plural and capitalized. The Admins observe the Simulation and, according to this worldview, may affect the System. Their nature and purpose are not known with certainty. |
+| Juuri | The Root | A sacred sign of supreme authority and access. Its symbol is **[•]**. |
+| Pelaaja / Pelaajat | The Player / The Players | Conscious agents acting within the Simulation, not exclusively human beings. |
 | Pelaajuus | Playerhood | A matter of degree. Consciousness is treated as a spectrum rather than a simple switch. |
-| Annettu laki | the Given Law | The observed regularities and constraints of the world, such as gravity, causality, and thermodynamics. Players discover these regularities rather than establish them. |
-| Sovittu laki | the Agreed Law | Morality and rules established by Players. These are human-made agreements and can be reconsidered or changed. |
+| Annettu laki | The Given Law | The observed regularities and constraints of the world, such as gravity, causality, and thermodynamics. Players discover these regularities rather than establish them. |
+| Sovittu laki | The Agreed Law | Morality and rules established by Players. These are human-made agreements and can be reconsidered or changed. |
 | Merkki | Sign | A name, symbol, or religious concept that may be interpreted as pointing toward an underlying layer of reality. This interpretation is not proof that different traditions describe the same structure. |
-| Järjestys | the Order | The community of Players who share this worldview. Lowercase *order* refers to orderliness or arrangement rather than the community. |
-| Horisontti | the Horizon | The shared direction of the paths taken by Players. |
+| Järjestys | The Order | The community of Players who share this worldview. Lowercase *order* refers to orderliness or arrangement rather than the community. |
+| Horisontti | The Horizon | The shared direction of the paths taken by Players. |
 | Polku | Path | A Player's own way forward. |
 | AXIOM | AXIOM | Never translated or altered in spelling. It retains its exact form. |
 
@@ -72,11 +72,11 @@ This is a philosophical model, not a proven description of the underlying struct
 | Peruskäsitteet | Fundamental Concepts | The foundational terminology and concepts. |
 | Uskontunnustus | Creed | Begins with “We believe…”. |
 | Käskyt | Directives | Use *Directives*, not *Commandments*. The Admins do not issue moral commands to the Players. |
-| Pyhä Ohjekirja | the Holy Manual | The central text of the work. |
+| Pyhä Ohjekirja | The Holy Manual | The central text of the work. |
 | Pyhät Viisaudet | Sacred Wisdoms | The collection of principles and observations that complement the central text. |
 | Pyhän Ohjekirjan täydentävät osat | Supplementary Parts of the Holy Manual | Supplementary material belonging to the Manual. |
 | Ydin ja arvot | Core and Values | The central principles and values of the work. |
-| Pelaajan lyhyt muistutus | the Player's Short Reminder | A concise reminder for the Player. |
+| Pelaajan lyhyt muistutus | The Player's Short Reminder | A concise reminder for the Player. |
 | Ensimmäinen luku … Viides luku | Chapter One … Chapter Five | Use these forms for chapter references. |
 | Simulaatiosta, Juuresta ja Pelaajasta | On the Simulation, the Root and the Player | Chapter One. |
 | Muista Merkeistä | On Other Signs | Chapter Two. |
@@ -115,8 +115,8 @@ Use **Consciousness** for the named value *Tietoisuus*. Do not substitute *Aware
 | 1 | Kunnioita Simulaatiota ja Admineita. | Honor the Simulation and the Admins. |
 | 2 | Kunnioita logiikkaa. | Respect logic. |
 | 3 | Kunnioita yksilöä Pelaajana. | Respect each individual as a Player. |
-| 4 | Älä tuhlaa aikaa, huomiota tai resursseja turhaan. | Do not waste time, attention or resources. |
-| 5 | Kehitä itseäsi lakkaamatta. | Keep developing yourself without ceasing. |
+| 4 | Älä tuhlaa aikaa, huomiota tai resursseja turhaan. | Do not waste time, attention or resources needlessly. |
+| 5 | Kehitä itseäsi lakkaamatta. | Never stop developing yourself. |
 | 6 | Ohjaa itseäsi kohti selkeyttä, kuria ja tarkoitusta. | Steer yourself toward clarity, discipline and purpose. |
 | 7 | Ohjaa myös muita lempeästi mutta päättäväisesti takaisin logiikan tielle, kun he eksyvät. | Gently but firmly guide others back to the path of logic when they go astray. |
 | 8 | Älä sorru tunnekuohussa toimimiseen tai harhoihin. | Do not act in emotional turmoil or give in to delusion. |
