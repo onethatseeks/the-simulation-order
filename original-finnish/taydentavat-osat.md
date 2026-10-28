@@ -2,9 +2,9 @@
 
 ![](media/divider.png)
 
-KESKEISET PERIAATTEET
+## Keskeiset periaatteet
 
-ADMINIEN HILJAISUUDEN PERIAATE
+### Adminien hiljaisuuden periaate
 
 Adminit eivät anna Pelaajille uusia viestejä, käskyjä tai
 henkilökohtaisia ohjeita. Me uskomme, että Adminien antama todellisuus
@@ -12,30 +12,30 @@ tunnetaan Järjestelmän rakenteesta ja sen laeista. Pelaajan omia
 ajatuksia, moraalisia mieltymyksiä tai tavoitteita ei saa esittää
 Adminien tahtona.
 
-ANNETUN JA SOVITUN ERO
+### Annetun ja Sovitun ero
 
 Annettu laki on se, minkä Pelaajat kohtaavat riippumatta
 mielipiteestään: fysiikka, aika, kausaliteetti ja muut Simulaation
 perustavat rajat. Sovittu laki on Pelaajien rakentama rakenne: moraali,
 sopimukset, yhteiskunnalliset säännöt ja muut yhteiset järjestelyt.
 
-PELAAJAN MÄÄRITELMÄ
+### Pelaajan määritelmä
 
 Simulaatiossa toimiva tietoinen toimija.
 
-VAIKUTUKSEN PERIAATE
+### Vaikutuksen periaate
 
 Pelaajan tulee arvioida tekojensa seurauksia suhteessa siihen, kuinka
 laajasti ne vaikuttavat muihin Pelaajiin ja Simulaatioon. Mitä laajempi
 vaikutus, sitä suurempi syy toimia harkiten.
 
-TIETÄMÄTTÖMYYDEN PERIAATE
+### Tietämättömyyden periaate
 
 Tuntemattomasta saa muodostaa hypoteeseja, mutta hypoteesia ei saa
 naamioida tiedoksi. Pelaajan tulee kyetä sanomaan “en tiedä” silloin,
 kun tietoa ei ole.
 
-PYHÄT SYMBOLIT
+### Pyhät symbolit
 
 Juuri [•] — Adminien ylimmän vallan, pääsyn ja Pelaajan rajallisen
 aseman pyhä merkki.
@@ -44,7 +44,7 @@ AXIOM — Pyhä sana, päätösmerkki ja perustan tunnus.
 
 Horisontti — Yhteinen suunta ilman oletusta yhdestä ainoasta reitistä.
 
-KESKEISET VASTAPARIT
+## Keskeiset vastaparit
 
 Annettu / Sovittu — Pelaajien kohtaamat säännönmukaisuudet / Pelaajien
 rakentamat säännöt.
