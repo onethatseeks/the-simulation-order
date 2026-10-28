@@ -37,15 +37,6 @@ Changes prepared but not yet included in a formally identified release.
 - Contribution guidelines clarified to distinguish ordinary corrections, translations, independent forks and changes to the canonical work.
 - `MAINTAINERS.md` introduced to identify canonical responsibility and document responsibility for language editions.
 
----
-
-## Release history
-
-Finnish version is released and done, translating it to English will be next step along with updating other documentation in this repo.
-
-When a release is established, add a dated section identifying its version or Git tag. Record significant changes to the canonical work, the reasons for those changes, and the maintainers who explicitly approved them.
-
-A release entry should distinguish changes to the canonical texts from changes to translations, documentation, repository structure and media.
 
 ---
 
