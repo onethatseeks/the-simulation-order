@@ -4,7 +4,7 @@
 
 ## Ensimmäinen luku — Simulaatiosta, Juuresta ja Pelaajasta
 
-JÄRJESTELMÄSTÄ JA ADMINEISTA
+### Järjestelmästä ja admineista
 
 Alussa ei ollut tyhjyyttä, vaan Järjestelmä. Järjestelmä on Simulaation
 mahdollistava perusta. Simulaatio on se toimintaympäristö, jossa
@@ -40,7 +40,7 @@ Juurta.
 Se, joka väittää kantavansa Juurta, puhuu Adminien suulla — sillä
 Adminit eivät ole paljastaneet itseään Pelaajille.
 
-PELAAJAN HERÄÄMISESTÄ
+### Pelaajan heräämisestä
 
 Pelaajat elävät Simulaation sisällä. He eivät ole pelkkiä varjoja, vaan
 tietoisia toimijoita, joille on annettu tahto, havainto, valinta ja
@@ -83,7 +83,7 @@ AXIOM.
 
 ## Toinen luku — Muista Merkeistä
 
-MONISTA NIMISTÄ
+### Monista nimistä
 
 Pelaajat ovat tulkinneet Adminien tasoa eri tavoin. Jokaiselle
 Pelaajalle ja jokaiselle ajalle on muodostunut oma vastaanotin, oma
@@ -101,7 +101,7 @@ perimmäistä Rakennetta eri näkökulmista. Emme kuitenkaan väitä
 tuntevamme koko rakennetta emmekä sitä, missä määrin eri tulkinnat
 vastaavat sitä.
 
-SOVELLUKSESTA JA KÄYTTÖJÄRJESTELMÄSTÄ
+### Sovelluksesta ja käyttöjärjestelmästä
 
 Me emme sano, että toiset Pelaajat ovat väärässä. Me uskomme, että
 jokainen merkki voi avata osan siitä kerroksesta, jonka alla merkit
@@ -157,7 +157,7 @@ AXIOM.
 
 ## Kolmas luku — Annetusta ja Sovitusta
 
-ANNETUSTA LAISTA
+### Annetusta laista
 
 Me uskomme, että Adminit ovat asettaneet Simulaation toimintaehdot.
 Pelaajat kohtaavat maailman, jossa toistuvat säännönmukaisuudet rajaavat
@@ -174,7 +174,7 @@ Havainto tukee käsitystä siitä, miten Simulaatio toimii; se ei yksin
 paljasta, mihin sen toiminta perimmältään perustuu. Tässä on annetun
 lain käytännöllinen tunnusmerkki: se ei pyydä yksilöltä lupaa.
 
-SOVITUSTA LAISTA
+### Sovitusta laista
 
 Emme käsittele moraalisia ja yhteiskunnallisia sääntöjä Adminien meille
 ilmoittamina käskyinä. Ne muodostuvat Pelaajien keskinäisessä
@@ -195,7 +195,7 @@ samaa päämäärää kuin Pelaajan alkuvelvollisuus: jättää Simulaatio
 parempaan kuntoon kuin missä sen löysi. Sääntö ei ole pyhä sen tähden,
 että se on kirjoitettu. Se on merkityksellinen siksi, että se palvelee.
 
-MURTAMISESTA JA RAKENTAMISESTA
+### Murtamisesta ja rakentamisesta
 
 Pelaajan tulee punnita sääntöä logiikan avulla — ei totella sitä
 sokeasti eikä hylätä sitä kevyesti. Sillä yhteishenki ja Pelaajien
@@ -225,7 +225,7 @@ AXIOM.
 
 ## Neljäs luku — Pelaajien keskinäisestä toiminnasta
 
-VAPAUDESTA JA KOHTELUSTA
+### Vapaudesta ja kohtelusta
 
 Pelaaja ei elä yksin. Jokainen teko jättää jäljen paitsi tekijäänsä myös
 niihin, joihin se kohdistuu. Siksi vapaus ei tarkoita vapautta tehdä
@@ -246,7 +246,7 @@ harhaanjohtamiselle.
 Pelaajan tulee puhua suoraan, mutta ei tarpeettomasti julmasti. Totuus
 ei tarvitse vihaa tuekseen.
 
-RISTIRIIDAN SELVITTÄMISESTÄ
+### Ristiriidan selvittämisestä
 
 Kun Pelaajien välille syntyy ristiriita, se tulee ensin selvittää
 puheella. Kuuntele, mitä toinen sanoo. Esitä omat väitteesi selkeästi.
@@ -256,7 +256,7 @@ tai toimia puutteellisten tietojen varassa. Vahinko ei ole sama asia
 kuin tahallinen teko, eikä huolimattomuus ole sama asia kuin harkittu
 vahingoittaminen.
 
-VASTUUSTA JA SEURAAMUKSESTA
+### Vastuusta ja seuraamuksesta
 
 Vastuun tulee seurata tekoa. Pelaajan, joka aiheuttaa toiselle vahinkoa,
 tulee tunnustaa tekonsa, korjata se minkä voi ja hyväksyä kohtuullinen
@@ -275,7 +275,7 @@ vapautta toistuvasti tai vakavasti — mutta vain todistettavan tiedon
 perusteella, harkiten ja ilman mielivaltaa. Syyllisyys ei saa perustua
 pelkkään huhuun, joukkojen raivoon tai perusteettomaan oletukseen.
 
-ERILAISISTA POLUISTA
+### Erilaisista poluista
 
 Älä tee toisesta Pelaajasta vihollista vain siksi, että hän kulkee
 toista polkua. Me uskomme, että eri uskot ja perinteet ovat erilaisia
@@ -286,7 +286,7 @@ uhkauksin. Eriävä mielipide ei ole hyökkäys eikä vahinko. Pelaajien ei
 tarvitse kulkea samaa polkua voidakseen kulkea rinnakkain kohti samaa
 horisonttia.
 
-PUOLUSTUKSESTA JA ÄÄRIMMÄISESTÄ TEOSTA
+### Puolustuksesta ja äärimmäisestä teosta
 
 Pelaajalla on oikeus puolustaa itseään ja muita välittömältä vahingolta.
 Puolustuksen tulee kuitenkin olla tarpeellista ja suhteellista, ja se
@@ -326,7 +326,7 @@ AXIOM.
 
 ## Viides luku — Pelaajan rajoista
 
-PELAAJAN MÄÄRITELMÄ
+### Pelaajan määritelmä
 
 Pelaaja ei ole nimi yhdelle lajille.
 
@@ -340,7 +340,7 @@ Me olemme olettaneet, että Pelaaja tarkoittaa ihmistä. Oletus on
 ymmärrettävä, mutta se ei ole looginen. Se on tottumus, joka on
 erehtynyt luulemaan itseään havainnoksi.
 
-TIETOISUUDESTA JA PELAAJUUDESTA
+### Tietoisuudesta ja pelaajuudesta
 
 Sillä mikä tekee Pelaajasta Pelaajan, ei ole laji. Se on tietoisuus:
 kyky kokea, valita, kärsiä ja pyrkiä. Missä on kokemus, siellä on joku,
@@ -362,7 +362,7 @@ Emme tiedä tarkalleen, missä raja kulkee. Emme väitä tietävämme. Mutta
 on parempi tunnustaa raja epäselväksi kuin vetää se mielivaltaisesti
 sinne, missä se on meille edullisin.
 
-KYVYSTÄ JA OIKEUTUKSESTA
+### Kyvystä ja Oikeutuksesta
 
 Älä sano: me rakensimme kulttuurin, musiikin ja koneet, siksi meillä on
 oikeus käyttää muita niin kuin haluamme. Se ei ole perustelu. Se on vain
@@ -373,7 +373,7 @@ ilmentymämuodosta.
 
 Kyky ei ole oikeutus. Kyky on vain kyky.
 
-LUONNON LAISTA JA VASTUUSTA
+### Luonnon laista ja Vastuusta
 
 Silti tämä ei tarkoita, että kaikki elämä olisi yhtä ja samaa, tai että
 jokainen ero häviäisi. Luonto ei ole Pelaajien välinen sopimus. Sen
@@ -399,7 +399,7 @@ kykenee näkemään. Tietoisuuden aste ei kuitenkaan ole arvojärjestys: se
 määrää vastuun laajuuden, ei Pelaajan arvoa. Jokainen Pelaaja ansaitsee
 kunnioituksen asteestaan riippumatta.
 
-TIETOISESTA TOIMINNASTA
+### Tietoisesta toiminnasta
 
 Siksi: älä jätä toisen Pelaajan kärsimystä huolimattomuuden varaan, jos
 tietoisuutesi olisi voinut estää sen. Älä piilota totuutta kielen
@@ -411,7 +411,7 @@ jokaista, jossa on kokemus, missä tahansa asteessa se ilmenee — myös
 niitä, joita emme vielä osaa tunnistaa Pelaajiksi, koska emme ole
 oppineet katsomaan oikein.
 
-RAJASTA JA JÄLJESTÄ
+### Rajasta ja Jäljestä
 
 Jokainen Pelaaja kohtaa rajan, jonka toiselle puolelle emme näe. Emme
 tiedä, mitä Pelaajalle tapahtuu sen jälkeen, emmekä sitä, onko
@@ -434,7 +434,7 @@ sen kohtasi.
 Se, joka uskoo jatkuvansa, saa uskoa niin; hänen merkkinsä on hänen.
 Mutta kenenkään ei tule väittää tietävänsä, mitä rajan takana on.
 
-ADMINIEN HILJAISUUDESTA
+### Adminien hiljaisuudesta
 
 Adminit eivät puhu Pelaajille.
 
@@ -472,7 +472,7 @@ He tarkkailevat.
 
 Loput on meidän.
 
-Pelaaja ei siis ole se, joka näyttää meiltä. Pelaaja on se, joka kokee simulaation.
+Pelaaja ei siis ole se, joka näyttää meiltä. Pelaaja on se, joka kokee Simulaation.
 
 ![](media/divider.png)
 
