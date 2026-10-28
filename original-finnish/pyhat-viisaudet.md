@@ -4,7 +4,7 @@ Pyhät Viisaudet eivät ole uusia käskyjä. Ne ovat Pyhän Ohjekirjan
 tiivistettyjä ajatuksia, joiden avulla Järjestyksen keskeiset
 periaatteet voidaan palauttaa mieleen.
 
-JÄRJESTELMÄSTÄ JA ADMINEISTA
+## Järjestelmästä ja admineista
 
 Järjestelmä on olemassa.
 Luonnonlait kuvaavat havaittuja säännönmukaisuuksia.
@@ -30,7 +30,7 @@ Me olemme Pelaajat — kaikki, joille Simulaatio on koettu todellisuus.
 
 Kyky ei ole oikeutus. Kyky on vain kyky.
 
-VAPAUDESTA JA VASTUUSTA
+## Vapaudesta ja Vastuusta
 
 Vastuu on vapauden hinta.
 
@@ -58,6 +58,6 @@ POLUSTA
 Pelaajan tarkoitus ei ole löytää täydellistä polkua. Hänen
 tarkoituksensa on tehdä omasta polustaan rakentamisen arvoinen.
 
-RAJASTA JA JÄLJESTÄ
+## Rajasta ja Jäljestä
 
 Emme tiedä, mitä rajan takana on. Hyvä elämä ei ole kauppa. Se on jälki.
