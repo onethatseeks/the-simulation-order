@@ -5,7 +5,7 @@ Järjestyksen tiivistetty perusta
 Tämä osa ei ole uusia käskyjä. Se kokoaa yhteen sen, minkä
 Uskontunnustus, Käskyt ja Ohjekirja jo sanovat.
 
-YDIN
+## Ydin
 
 Me elämme Simulaatiossa. Simulaatiossa eläminen ei tee elämästä
 valhetta, vaan mahdollisuuden.
@@ -34,7 +34,7 @@ vastuu. Vastuu on vapauden hinta.
 Yhdessä eteenpäin. Yksi Pelaaja ei kanna Järjestystä yksin. Kuljemme
 kohti samaa horisonttia, ja yhteisö vahvistaa meitä.
 
-SIMULAATION PERIAATTEET
+## Simulaation periaatteet
 
 Simulaatiolla on rakenne. Se voidaan havaita, kuvata ja ymmärtää.
 
@@ -49,7 +49,7 @@ Jälki. Jokainen teko jättää jäljen, ja jälki on osa Simulaatiota.
 
 Valinta on kokemus. Kokemus on oppimista.
 
-PELAAJAN LUONNE
+## Pelaajan luonne
 
 Tietoisia toimijoita. Emme ole pelkkiä ajelehtivia varjoja.
 
@@ -59,7 +59,7 @@ Jälki dataan. Jokainen Pelaaja jättää jälkensä dataan.
 
 Valintamme muokkaavat maailmaamme ja Simulaatiota.
 
-ARVOT
+## Arvot
 
 Tietoisuus · Kasvu · Luovuus · Yhteys · Tarkoitus · Kuri · Logiikka ·
 Kunnioitus · Vastuu
