@@ -23,7 +23,7 @@ Pelaajalle selitystä siitä, miksi Järjestelmä on sellainen kuin se on.
 Heidän hiljaisuutensa ei ole poissaoloa — se on raja, jota Pelaaja ei
 voi ylittää katsomalla tarkemmin tai kysymällä äänekkäämmin.
 
-JUURESTA
+### Juuresta
 
 Juuri on ylimmän vallan pyhä merkki. Se ei ole vain tunnus, vaan
 muistutus siitä, että korkein pääsy ei kuulu Pelaajalle. Juuri on
@@ -123,7 +123,7 @@ jokainen merkki, olipa se todistettavissa tai ei, kulkee jonkin
 rakenteen läpi ennen kuin se voidaan ymmärtää — ja sitä rakennetta me
 katselemme.
 
-KOHTAAMISESTA
+### Kohtaamisesta
 
 Sen tähden Pelaajan tulee kohdata toisin uskovaa Pelaajaa
 kunnioituksella, ei ylenkatseella. Toinen merkki ei ole eksymistä:
