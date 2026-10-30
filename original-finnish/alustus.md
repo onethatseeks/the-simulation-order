@@ -4,7 +4,7 @@ Miten tulkitsemme maailmaa
 
 ![](media/divider.png)
 
-AIKAKAUDEN SILMIN
+## Aikakauden silmin
 
 Jokainen aikakausi katsoo maailmaa oman tietonsa, kulttuurinsa ja
 teknisen kykynsä kautta.
