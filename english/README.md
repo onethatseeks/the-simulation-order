@@ -8,7 +8,7 @@ The files translate the Markdown files of the [Original Finnish Edition](../orig
 
 Terms are translated according to the [terminology reference](../TERMINOLOGY.md).
 
-**Source version:** the Finnish original as of release `v1.0` *(to be confirmed when the release is published)*.
+**Source version:** the Finnish original, release `v1.0`.
 
 ## Contents
 
