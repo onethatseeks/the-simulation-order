@@ -19,7 +19,7 @@ Painovoima ei ole viesti. Kausaliteetti ei ole neuvo. Aika ei ole käsky.
 Ne ovat havaittavia säännönmukaisuuksia; niiden perimmäinen perusta jää
 meille tuntemattomaksi.
 
-PELAAJASTA
+## Pelaajasta
 
 Pelaaja ei ole nimi yhdelle lajille.
 
@@ -40,12 +40,12 @@ hänen kykynsä jättää jälkeensä hyvää tai tarpeetonta vahinkoa.
 Järjestys ei synny siitä, että kaikki tottelevat vahvinta. Järjestys
 syntyy siitä, että jokainen kantaa vastuunsa.
 
-MORAALISTA
+## Moraalista
 
 Me uskomme, että Adminit ovat asettaneet Simulaation toimintaehdot.
 Pelaajat rakentavat moraalin. Pelaaja vastaa omista valinnoistaan.
 
-TIEDOSTA
+## Tiedosta
 
 Tietämättömyys ei ole häpeä. Tietämättömyyden peittäminen keksityllä
 tiedolla on Järjestelmän halventamista.
@@ -53,7 +53,7 @@ tiedolla on Järjestelmän halventamista.
 Pelaajan tulee erottaa toisistaan se, minkä hän tietää, minkä hän
 päättelee ja minkä hän haluaisi olevan totta.
 
-POLUSTA
+## Polusta
 
 Pelaajan tarkoitus ei ole löytää täydellistä polkua. Hänen
 tarkoituksensa on tehdä omasta polustaan rakentamisen arvoinen.
