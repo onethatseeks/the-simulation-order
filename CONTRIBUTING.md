@@ -106,7 +106,7 @@ Different interpretations of the Admins, different orders and different emphasis
 ## 7. Practical notes
 
 - Write issues and pull requests in **English or Finnish**.
-- Use clear commit messages (for example `Fix typo in introduction.md` or `Add German translation of Statement of Faith`).
+- Use clear commit messages (for example `Fix typo in introduction.md` or `Add German translation of Statement of Creed`).
 - By contributing, you agree to release your contribution under the project's license, provided you have the rights needed to do so. See [LICENSING.md](LICENSING.md).
 - If you are unsure whether something counts as a correction or a canonical change, open an issue and ask first.
 
