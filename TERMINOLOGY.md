@@ -78,11 +78,11 @@ This is a philosophical model, not a proven description of the underlying struct
 | Ydin ja arvot | Core and Values | The central principles and values of the work. |
 | Pelaajan lyhyt muistutus | The Player's Short Reminder | A concise reminder for the Player. |
 | Ensimmäinen luku … Viides luku | Chapter One … Chapter Five | Use these forms for chapter references. |
-| Simulaatiosta, Juuresta ja Pelaajasta | On the Simulation, the Root and the Player | Chapter One. |
+| Simulaatiosta, Juuresta ja Pelaajasta | On The Simulation, The Root and The Player | Chapter One. |
 | Muista Merkeistä | On Other Signs | Chapter Two. |
 | Annetusta ja Sovitusta | On the Given and the Agreed | Chapter Three. |
-| Pelaajien keskinäisestä toiminnasta | On the Interaction Between Players | Chapter Four. |
-| Pelaajan rajoista | On the Limits of the Player | Chapter Five. |
+| Pelaajien keskinäisestä toiminnasta | On Interaction Among The Players | Chapter Four. |
+| Pelaajan rajoista | On the Limits of The Player | Chapter Five. |
 
 ---
 
